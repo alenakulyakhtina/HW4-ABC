@@ -1,0 +1,6 @@
+name catfish, weight 1000, type Fish, RIVER
+name raven, weight 1500, type Bird, this bird stays for the winter
+name donkey, weight 15000, type Beast, HERBIVORE
+name hyena, weight 20000, type Beast, PREDATOR
+name pig, weight 22000, type Beast, HERBIVORE
+name tiger, weight 40000, type Beast, PREDATOR

@@ -1,0 +1,10 @@
+name lorellnmpapqfwkhopkmcoqhnwnkuewhs, weight 36227, type Fish, RIVER
+name endtomfgdwdwfcg, weight 17506, type Beast, INSECTIVORES
+name pqpxrjxkitzyxacbhhki, weight 36841, type Bird, this bird stays for the winter
+name drrwsofsbcnuvqhffbsaqxwpqcacehchzvfrkmln, weight 99229, type Beast, INSECTIVORES
+name rjmowfrxsjybldbefsarcbynecdygg, weight 97282, type Fish, RIVER
+name buqcljjivswmdkqtbxixmvtrrbljp, weight 98928, type Fish, SEA
+name fwzqfj, weight 28625, type Bird, it is a migratory bird
+name wlrbbmqbhcdarzow, weight 83427, type Bird, this bird stays for the winter
+name iddq, weight 21531, type Beast, HERBIVORE
+name vkuytdlc, weight 76349, type Beast, INSECTIVORES

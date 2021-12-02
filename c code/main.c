@@ -6,7 +6,7 @@
 /// Entry point - main function
 int main(int argc, char *argv[])
 {
-    time_t start, end;
+    clock_t start, end;
     start = clock();
     if (argc != 4){
         printf("Incorrect number of parameters!\n");
@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
     int result = con_write_to_file(argv[3], animal_list, num_animal);
 
     end = clock();
-    printf("Time: %f\n", (float)(end - start));
+    printf("Time: %f\n", (float)(end - start)/CLOCKS_PER_SEC);
     return result;    
 }
     

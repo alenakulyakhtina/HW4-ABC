@@ -1,0 +1,3 @@
+name trout, weight 500, type Fish, RIVER
+name wolf, weight 40000, type Beast, PREDATOR
+name rhinoceros, weight 100000, type Beast, HERBIVORE

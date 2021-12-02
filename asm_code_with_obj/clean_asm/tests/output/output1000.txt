@@ -1,0 +1,1000 @@
+name deyqcrgluaiihveixwjjrqopubjguxhxdipfzwswybgfyl, weight 31, type Beast, INSECTIVORES
+name zdgoefckaatpdohtgaxdqnlcebpuhapgfxw, weight 179, type Bird, this bird stays for the winter
+name ldydtwyhdsqaylwpekgzbnvyqnrajrouupxqlxxosp, weight 309, type Bird, this bird stays for the winter
+name mhbkwktjncgbccrzitlgyvxjsgfysbghjjrfumqjpykt, weight 344, type Beast, PREDATOR
+name pnrkhduqqcdsfksjzscjivbtzmbzxezosr, weight 435, type Bird, this bird stays for the winter
+name nuxmjyoidpwxgwyfsrsrp, weight 362, type Beast, INSECTIVORES
+name vuuhepdifvfkyhsfiuleafgaapahjwtesplweqfmnmymt, weight 1005, type Beast, HERBIVORE
+name gvqrjvpkakjyietvszdfknlutlojyse, weight 735, type Fish, LAKE
+name kfudm, weight 115, type Bird, this bird stays for the winter
+name tjoarakcmepizolzbucyztjwjodlwyorheryfddrjubkkmkl, weight 1401, type Beast, PREDATOR
+name kkpcmyjgfwghijqsoqtxxdacdwkj, weight 963, type Fish, SEA
+name swdbexyblq, weight 437, type Fish, RIVER
+name yjeufutixpjlqvaotuwemehuxsdkpo, weight 1366, type Beast, INSECTIVORES
+name hzauxkonyrbvjaqqobhywwundx, weight 1226, type Beast, PREDATOR
+name iyiiutakxrnmtndmhkgqcqrpuoxlzvchuk, weight 1956, type Beast, INSECTIVORES
+name cmfaqgttyitteudnkmgegginsbkjyksb, weight 1877, type Fish, LAKE
+name vfqvssbhvljkjjpegotukhvsudohdujbzbwttxc, weight 2362, type Bird, this bird stays for the winter
+name jpeiysbmrnoqssfvoyxkeglmaygfgihqznazgdm, weight 2428, type Beast, HERBIVORE
+name fqpggrik, weight 508, type Beast, INSECTIVORES
+name eslmzaynwgycjlahqyoebdpaqnzltjyxcjkbkiriopkacn, weight 3110, type Fish, RIVER
+name oahnxibwwhqdrhwzxsfpqaduj, weight 1747, type Fish, LAKE
+name iwzfnuhtgoaqmukhjrpfauojwzyxyhnjfooslxorlokzlw, weight 3538, type Fish, SEA
+name ckguuvuwdlcqsbbdjunbikbvuewnrw, weight 2353, type Fish, RIVER
+name jowrghwlkobmeahkgccnaehhsveymqpxhl, weight 2748, type Bird, this bird stays for the winter
+name xoithejobprotumenselsftseduwrakoosjyysmzhfpc, weight 3661, type Bird, this bird stays for the winter
+name sqfysnfylhqtripfqcbkifiniulyqqziheiztnagxs, weight 3902, type Fish, LAKE
+name bifnybcbnqisspezrwbqlrkbryvoujjytonrpqve, weight 4361, type Beast, HERBIVORE
+name nvucftpwctgtwmxnupycfgcuqunublmoiitnckl, weight 4311, type Bird, this bird stays for the winter
+name icjfqkkvnxuqmszcixmzkwsqoiwyfalpeuuugf, weight 4436, type Bird, this bird stays for the winter
+name udcqvglowdggxbpvzwalxogufhotioteryvoeicb, weight 4742, type Bird, it is a migratory bird
+name ctwwibgbqcmrqwvlgsjxe, weight 2533, type Bird, it is a migratory bird
+name thphhtrahkcsmjkgpcdgnrnwpjxgpqkjxbshwlhfxjyjskq, weight 5827, type Beast, HERBIVORE
+name twjfxaxblfvldscivuybhrrvujjuartvoecngzoshjfkehuzd, weight 6238, type Beast, PREDATOR
+name fbxyetjbyqqgrtrurpfmkhjocwyjpjzunxsrqdurt, weight 5613, type Bird, it is a migratory bird
+name zblfbcvehzybemyjkesilaqfzxsmxvvwxhdyla, weight 5135, type Fish, RIVER
+name mpmfezuefpiklgbrgviazktwrjfiooucdihjhd, weight 5129, type Fish, SEA
+name vhlpqcfhfxcgsuzqovtkbsqknwwjdjnaqaridzsiwuoqongf, weight 7033, type Beast, INSECTIVORES
+name oyctqlnzxoetyioavsorrbvoqflpql, weight 4523, type Beast, PREDATOR
+name docximylpfkzdudojhkmnhyecsyfmfbpudmerkp, weight 5923, type Bird, it is a migratory bird
+name ojyzogxyuhqwvctsmoadlcfewbqfibuwnuxd, weight 5639, type Bird, it is a migratory bird
+name dyiggvbkwdrlmwqokgwiblbwfoummodromxujbggeytqwj, weight 7174, type Fish, LAKE
+name qrrijmlqzgstvpupidbhqjmgupakuitlzktk, weight 5745, type Bird, this bird stays for the winter
+name omsizywvlhlynskdgtmpxbkyhstplpubbojd, weight 5770, type Bird, this bird stays for the winter
+name dvukjmeevitwmndzvwvfzfmiixsgsdixzeiksmpowkk, weight 6983, type Beast, HERBIVORE
+name slzsdumambukqpkzizeeowtjzqieia, weight 5134, type Beast, INSECTIVORES
+name ygksk, weight 886, type Beast, INSECTIVORES
+name fdlljetapxzubvkcdbsazyxlqeylinppqaacg, weight 6709, type Bird, it is a migratory bird
+name eurhcbmzgzwwgyvtlzeivxygaappzosdikkmlwltxirdioyt, weight 9362, type Beast, INSECTIVORES
+name urufjkvaeuvmguoofukuskkgmcmvehsyyodjybjc, weight 7742, type Fish, SEA
+name dlaxuqyztrrksuenwkmkryrefqvionstautxlrwelnqdjurf, weight 9487, type Fish, RIVER
+name jbfcvyezwlaxezzepgeuz, weight 4391, type Fish, RIVER
+name juqfgdgjbduvqmxqysckekomvaqxtanfufmbktmmwij, weight 9029, type Fish, RIVER
+name swraxexqyszyvnzgsirjeqjxkdbfwzeqyxqxc, weight 8376, type Bird, this bird stays for the winter
+name hetbdwhbqxfw, weight 2651, type Fish, LAKE
+name ylbjpbmrdzhxpmwnpffvayihgtyxbgjzumllpxdtxkqo, weight 10011, type Beast, HERBIVORE
+name lxmyhpjfcstcqbufepbmjyreyhyaeizqfnqpczugtnjjr, weight 10468, type Fish, SEA
+name rxelpstosaodqszk, weight 3819, type Bird, it is a migratory bird
+name rwklcejkabyyypcvvqzxciyyacmpnsxeqjrsndfogdoevr, weight 10931, type Fish, SEA
+name gskosdbpjtgilbflkvawodskbrfmxkbfemuxrvmarsketq, weight 10910, type Bird, it is a migratory bird
+name zjmxdpjrgrakklddxajqjiiemwzdtsftesqhhcyptaaeldhi, weight 11616, type Beast, PREDATOR
+name nzitcpbvcrvutfosfdvcd, weight 5217, type Bird, it is a migratory bird
+name hcdmqqsazmaucxggaimvykvcbjhxapaktfykvqm, weight 9711, type Bird, this bird stays for the winter
+name mgqtbmsrfzlcjr, weight 3552, type Bird, this bird stays for the winter
+name fjnpajkmfdosubtfwacretmyjjvz, weight 7295, type Beast, INSECTIVORES
+name zqhmwkohckdqywpzvhrwpoaqekjudfycvfqsr, weight 10111, type Beast, INSECTIVORES
+name avkixzehdmgoddjrubuwuuycrbehbfgcasmatshygpn, weight 11499, type Beast, PREDATOR
+name cfnvybjmyns, weight 3009, type Beast, HERBIVORE
+name pafcclxkdgqtpndsqkqsqgqoynsndu, weight 8175, type Fish, RIVER
+name peocmtctaxyrapswsmybmxbkzbrrwmrm, weight 9193, type Beast, INSECTIVORES
+name dtkczpfhzikpujhjgqfbb, weight 5918, type Fish, LAKE
+name vksqnwktiwefmpqczsusnfufarfxgygbjatywgthcamqpc, weight 14145, type Fish, LAKE
+name vgpufytwhlgnffzvvproxmdzvhxqek, weight 9415, type Beast, PREDATOR
+name wy, weight 687, type Beast, INSECTIVORES
+name yegcxozgoaqjzjtgtjunlzvuleydvqdtwkxuazcpzua, weight 13769, type Bird, it is a migratory bird
+name bujjhidveogodsjpnqxfmmivvjurpazswibdseawugkxa, weight 14142, type Bird, it is a migratory bird
+name jkubdypzxdivrqahmzpkxufqowgpsgqdqmfvmuujzdgrtha, weight 15535, type Bird, it is a migratory bird
+name anxgckqtfhsbjhvllovobllqlomqjhjl, weight 10524, type Fish, LAKE
+name vcnifnmbaqapyjrgvgdfpmlirnjvgaedetokjc, weight 12978, type Beast, PREDATOR
+name pnsoppvtleijpynyfvuefyyrdjadjegbsypjomfbrnkilzhs, weight 16946, type Fish, RIVER
+name tzfpivudgqkgasmvtygjxiemmjzuhlyakfsudoyjekrhff, weight 16595, type Bird, it is a migratory bird
+name rvrqygmxjtamwuizhwhomzwsseexxbtowkgwssucmwqks, weight 16699, type Bird, it is a migratory bird
+name zaahfeqlnyu, weight 4073, type Bird, it is a migratory bird
+name sgkmnqwqdvadiwah, weight 5947, type Fish, RIVER
+name mxbgryqusuz, weight 4311, type Fish, RIVER
+name alinepackrzdqrzcjemfgsmsxybfdckdnusslswvkwycpy, weight 17409, type Bird, this bird stays for the winter
+name djekzzspomlphemuvkagzqmimfpskhsnqwxrxrhlfucm, weight 16809, type Bird, this bird stays for the winter
+name zxedawbodzeyqrqlwujhievsyhabxbhybndblerogvoyofj, weight 17974, type Beast, INSECTIVORES
+name gyw, weight 1205, type Fish, LAKE
+name nkncresikklpzpkkfclgqimwevcfprwebjivnad, weight 14855, type Beast, HERBIVORE
+name dgxqmqmgjwmqkxqdjqvbuatkzwoyxkeascrgufmgezw, weight 16751, type Bird, this bird stays for the winter
+name yfioopxxvgxniovabdatgjszazsiwzzweiluxirvqqkzef, weight 18122, type Fish, LAKE
+name gxstehaozedwhspvntyxccjrru, weight 10229, type Beast, HERBIVORE
+name yenvulcxeknpwsfhckptjgflitczczjbeyyajaxqmk, weight 16818, type Beast, HERBIVORE
+name nwmqokdtaohfpzsyemwsbjecpthcdjpsibkwnqpneyswxlwcz, weight 19907, type Bird, it is a migratory bird
+name stpkilljwidoseeitemefhmgtvpfkxec, weight 12893, type Bird, this bird stays for the winter
+name pskalebubfingwbqwonruylcyimnaqnpkyrwctsga, weight 16828, type Beast, INSECTIVORES
+name womolrczhcwzwuwjynxoiqtqmhmatfprtei, weight 14709, type Beast, HERBIVORE
+name hhkpsuhhnklqepwniwxvmpikidzdzargib, weight 14044, type Fish, LAKE
+name zzxlcxdzncqgjlapopkvxfgv, weight 10051, type Beast, INSECTIVORES
+name hapcegnaonfaxmewprsbhjgleu, weight 10785, type Bird, this bird stays for the winter
+name gkbbipzzrzucxamludfykgruowzgiooobppleqlwp, weight 17648, type Fish, SEA
+name qgtxhjkgfetqqjslvsimrxuxojvzallqtgpc, weight 15874, type Beast, PREDATOR
+name tqnwlvrzxtyrpdivsinokxnkctsfukinavk, weight 16270, type Fish, SEA
+name kchzdflilrjqfnxztqrsvbspkyhsenbppkqtpddbuot, weight 19848, type Fish, SEA
+name thjbwxoxpepfxuyjmkc, weight 8902, type Fish, RIVER
+name wufchlsbencbieduzwftifpfdgomwvasphwyuoaybebj, weight 20173, type Beast, PREDATOR
+name ofojjmtzzqbzigfajmsxpaibcrouivtycjknvdnxtqy, weight 20096, type Bird, it is a migratory bird
+name cphkflpbqsvtdwludsgaungfzoihbxifoprwcjzsd, weight 19020, type Beast, PREDATOR
+name lmbmjlqjfkvadrurbvwnfob, weight 10664, type Fish, RIVER
+name ujynhxttpcgscuuyswdsgfncfukwksugbsukqpef, weight 18984, type Fish, RIVER
+name eljrflpnnahdelarjxkbq, weight 9672, type Fish, SEA
+name paxcwnwqjtbplyzedicwsodp, weight 11415, type Fish, SEA
+name vbbadwisswbrjxzrvurj, weight 9593, type Bird, it is a migratory bird
+name fue, weight 1393, type Bird, this bird stays for the winter
+name qdyvdpbxftatuqastvphoahpsdifnxrfbq, weight 16205, type Bird, it is a migratory bird
+name zkhiqbjtimitdkxiksxjecwmkwabhslievqvwcqeqaztky, weight 22038, type Beast, PREDATOR
+name poermcnpnmahvuppzrljeewronkdblgsz, weight 15903, type Bird, it is a migratory bird
+name bihmhtanywebvnakjzew, weight 9804, type Bird, it is a migratory bird
+name jfqmdooybtmzhfwestwpuwfuhwipyfwkkowpdknedafmhcqz, weight 23892, type Bird, this bird stays for the winter
+name rxwfzcoubluejskubuhbbloxuhi, weight 13485, type Beast, INSECTIVORES
+name ernkhqnjiliivzfijy, weight 8980, type Fish, RIVER
+name utsivhkprcfbdpdkurgnbffjjpmhrbfnuywpfgfwimzlbcv, weight 23426, type Beast, HERBIVORE
+name shobccrqrzduvaewogmglhxq, weight 12034, type Fish, SEA
+name rvoibhdazfwzdszbgjzferdinfaqthakeq, weight 16957, type Fish, RIVER
+name lvsgzxkkqiqjkqgz, weight 8298, type Bird, this bird stays for the winter
+name tvtremtpblxgoitcfmhdxfdtjnmwrqrmnmdtyxi, weight 20114, type Fish, SEA
+name cnjkphclffrkeecbpdipufhidjcxjhrnxcxmjcxohqanxd, weight 23404, type Bird, this bird stays for the winter
+name dfusvnognrrvfoqrxvpdyowedmgoijilqeelsstfmk, weight 22364, type Beast, INSECTIVORES
+name hljpxpkdvjtyqdvnajfyymftivlgbrfidoxcgkfdtybjby, weight 24313, type Bird, it is a migratory bird
+name cvodbexdjclencogamorkjrphxpvfjhjfymiemnpoy, weight 22093, type Bird, this bird stays for the winter
+name jfgvtqrjyjxhefdwqfwykmodiijzigjrmpohifqiqnpvuut, weight 25217, type Beast, HERBIVORE
+name pxbcivfbzjamznjfjxjgholjllyhwignfh, weight 18136, type Beast, INSECTIVORES
+name kjwpymqorluxedvywhcoghotpusfgiestckrpa, weight 20805, type Fish, LAKE
+name paqqrzmxddtqvluoweymgspi, weight 13546, type Bird, this bird stays for the winter
+name zjahpsgqxoknfhywy, weight 9619, type Fish, LAKE
+name idkiokhrboipyrhlapwixrhccscloguzjehzorq, weight 21737, type Fish, RIVER
+name cbwqgxhwctxwhjw, weight 8544, type Bird, it is a migratory bird
+name qktlcyhbigvjfzahvahawozcsouxaipsukg, weight 19717, type Fish, LAKE
+name uggyvaleokqplj, weight 7909, type Beast, INSECTIVORES
+name potdspfcwpxfbtiqikfolieip, weight 14138, type Beast, HERBIVORE
+name pnrgzdrgocdtidpxmucbqojrghfelnuaangzszhi, weight 23010, type Bird, this bird stays for the winter
+name aoecsrescjzjeudlgdckpuuoorzyzqqzgwbzoit, weight 22865, type Fish, LAKE
+name yizldowtqqht, weight 7216, type Fish, RIVER
+name xzqycqlkbqqbjiuzvvpfarognspmbqo, weight 18301, type Fish, SEA
+name bwybbtanmomdr, weight 7620, type Beast, HERBIVORE
+name yaetzwyttlofiljkghexs, weight 12644, type Fish, SEA
+name wckhnzkrxuvjfgtzrdchdgiicneszr, weight 18010, type Bird, it is a migratory bird
+name kixdbxjmitwcqqxfbbfhbadvfuaaujx, weight 18418, type Fish, LAKE
+name horbzevecjmrfzfutworhtxiebgjijtrzksbqp, weight 23396, type Beast, INSECTIVORES
+name fucxzwxfcrelwyeaqvoewotrlssdeyjltnkumi, weight 23636, type Beast, INSECTIVORES
+name mbpbegvsuluqtuu, weight 9434, type Beast, PREDATOR
+name qrccwldtrudngydjhrdocdbwfltzeojuhlzdwewqabdi, weight 27030, type Beast, INSECTIVORES
+name ymitjxszjswzknqaqhgviudkwfmpxhjvusqdpjcadaanps, weight 29054, type Beast, PREDATOR
+name tqeedpcyimlygxmcbsq, weight 11884, type Bird, it is a migratory bird
+name nmjmmjqyydsykihddxginnnbtkuvaewqshceqscryxr, weight 27189, type Bird, this bird stays for the winter
+name mppnlgjznkewwuysgefonexpmmsbaopmdgz, weight 22273, type Fish, LAKE
+name ggjvnfzobqlkkwkbwtsvsarwwhsryekfktczbbnctbodzyg, weight 30087, type Bird, it is a migratory bird
+name lgwevcycfwiovxgk, weight 10247, type Bird, it is a migratory bird
+name qvcnoqavqswxmdpmovtffwnw, weight 15675, type Bird, it is a migratory bird
+name knlpqyanifldeezbcstsw, weight 13372, type Beast, INSECTIVORES
+name bfugbecvpnedrqyvxstxgyjfzsjyzaeahyhi, weight 23337, type Beast, HERBIVORE
+name kqeskpjluhditltvzkdlap, weight 14276, type Bird, this bird stays for the winter
+name jncffyllhdqsnnqacyixulbjmjguujzdwdkebvrkyhcnx, weight 29241, type Fish, RIVER
+name mijhcnvafht, weight 7063, type Fish, SEA
+name lxxeqttxbhxpuryjsjq, weight 13051, type Bird, it is a migratory bird
+name gozycxguqomteyazkww, weight 13044, type Beast, INSECTIVORES
+name tayocscyxmwogrcswqufkrdnqlwnq, weight 19738, type Fish, LAKE
+name hyfeyjyxkgijlmdqwswwkrfmcjfw, weight 19217, type Bird, this bird stays for the winter
+name ffewggftwruqdxdculxquaobrnndoel, weight 21072, type Beast, INSECTIVORES
+name xgmetygveslwlynfqhoezenwkifxqctnkhtdhzalrmhekw, weight 31576, type Fish, RIVER
+name biokvkwkxlrxblvotzomeqlftxz, weight 18968, type Bird, this bird stays for the winter
+name kicaghufczmaccgwigmr, weight 13493, type Fish, LAKE
+name faxxeidflgmrzngzzymyswgkgdfotxn, weight 21831, type Fish, SEA
+name gshzninnbhvjusglrv, weight 12685, type Bird, this bird stays for the winter
+name lgayymxymqiqlptbojyycxbyzdijbpim, weight 22666, type Fish, RIVER
+name mgrakzmmpclttshmgsnpilgllnctei, weight 20934, type Fish, LAKE
+name imhpymwpxizcegypprcgpahgdopxfhmqtththeigojjuqjjfa, weight 34352, type Fish, LAKE
+name ubifhsvtowjlrjawgijjuexi, weight 16945, type Fish, LAKE
+name qcjsnelgckmofrculxfemgbdicwyjvsbxetki, weight 26101, type Fish, RIVER
+name uczoycemwonnmkbjvkjoawgrmdvwirwctyqu, weight 26071, type Beast, PREDATOR
+name ttfixjvrgbnvqamxco, weight 12973, type Beast, INSECTIVORES
+name okvvzwglrlbfsjdojhftvwuuwqbgvuvle, weight 24430, type Beast, PREDATOR
+name cdcstcovfygjxghgsxgn, weight 14492, type Beast, HERBIVORE
+name fefwofihmozumjkgeilldtosfnoroc, weight 21990, type Fish, RIVER
+name vtvkwjhlrxiyifnlovgigdnwydwgodnjykvx, weight 27166, type Beast, HERBIVORE
+name eocivkonxnlnjxjzhxpidmmdppyqnykromblw, weight 27797, type Bird, it is a migratory bird
+name oxrbhszzrsduprqjyfyosgssrjcfn, weight 22035, type Fish, LAKE
+name ontbumdimcopxbrhmrlkahqwqdafp, weight 21438, type Bird, it is a migratory bird
+name jdtcostxdkvfaozw, weight 12059, type Bird, this bird stays for the winter
+name uuimiqxlihfyfzlxllsayoivngiabpkyluktmieurmuwlgvz, weight 36818, type Bird, it is a migratory bird
+name nrcctkbnnvoadu, weight 10460, type Bird, it is a migratory bird
+name pkkegvignurusomrkqpdrfbywkyzmxn, weight 23900, type Beast, INSECTIVORES
+name wajdboaulasldenybmfxdgobkjwopcdl, weight 23819, type Fish, RIVER
+name fowbfnidyvhzybjctkzsfifejhbyqubxkyyrngv, weight 30050, type Bird, this bird stays for the winter
+name bphuqyulrmxtnnvfxxyk, weight 15879, type Bird, it is a migratory bird
+name dcebneazmk, weight 7355, type Beast, HERBIVORE
+name suyibyebmwsiqyoygyxymzev, weight 19081, type Beast, HERBIVORE
+name fkmoeadfjwhaacetxymfnhkscnvborntdb, weight 25734, type Fish, RIVER
+name fcbeajzhnzvdrxyismtdgbsc, weight 18428, type Bird, this bird stays for the winter
+name ztrbudpehdmfylfitnobraglqppepfvryou, weight 27242, type Fish, SEA
+name kppqyyhbwaekjhzspmaqpxwexsnfjtmujbmhbvkxwqjhxlbpz, weight 38652, type Fish, LAKE
+name rmgeexvjnagebuyynjzoznwnqjlnjzncotiuqefdgljjhjhxu, weight 38428, type Fish, RIVER
+name skdpbkchudedyqsbigufifrjmsfixlvrwagzkkhe, weight 31198, type Beast, PREDATOR
+name sjwatycbmjawwmninepfduplucltxmkpvgrrgtuseuragel, weight 37210, type Bird, this bird stays for the winter
+name oalbamfppehdrvieblgmgiyhhxygivtwvfzvt, weight 29159, type Bird, this bird stays for the winter
+name xkxabczbhgjjvrnmhlsusqnnzochhumfhjhiljlupudml, weight 35684, type Beast, INSECTIVORES
+name ttnvzvzumqsctocviqmvuiarovvjafbwbotalvualpehfg, weight 37393, type Bird, this bird stays for the winter
+name imlivqpdzhfnhevksudvjlrgrcavxzehlrqgj, weight 30124, type Beast, INSECTIVORES
+name kwbwvwtzsouputklcozzdmglsxjfuzkgvmcqiyrcmorghcrjs, weight 40829, type Beast, HERBIVORE
+name ffbrz, weight 4042, type Fish, SEA
+name ugagloddktdjizynyoesuozryityjrifximky, weight 31188, type Bird, this bird stays for the winter
+name sbhtaapzsorbnjpzcxecvjmwjqdjhgvzjcukfjj, weight 32348, type Beast, INSECTIVORES
+name ewjzsvphbucmwyvsxwkyuk, weight 18992, type Fish, SEA
+name yifjytpmkejcru, weight 11821, type Fish, RIVER
+name tzzwpwmfbfjkncvkelhhzjchpd, weight 21932, type Bird, this bird stays for the winter
+name yrojhjhgiarcpgrniysdhztpfq, weight 21996, type Beast, HERBIVORE
+name fjwogsvspjmuusguzdnjyhcrbnxsijiovfcbza, weight 32430, type Beast, PREDATOR
+name xihjlvataasdsfdfngavyyabuowyfhzcpglcdo, weight 32244, type Bird, this bird stays for the winter
+name huntasgmagjmwractemolpfk, weight 20519, type Fish, LAKE
+name uiyokfhvstouzgqmeaogrqsdmzohydtuotjyystt, weight 35592, type Bird, it is a migratory bird
+name dbaxlzxlcygwwhzpnzpgkrfahnambyjhzlel, weight 31337, type Bird, this bird stays for the winter
+name hlcrorzhgsbaecplpccdyvnxmdmfhao, weight 26504, type Fish, LAKE
+name qfvkhxokjvgihkdkqgfnzkmudqohfvuycrimoyyawf, weight 37127, type Beast, INSECTIVORES
+name ayphxdzfyrwjvdxilcvohqimlxkl, weight 25177, type Bird, this bird stays for the winter
+name ordtqkvwcsgspqoqmsboaguwnnyqxnzlgdgwpbtrwbln, weight 39669, type Beast, HERBIVORE
+name ygzhrdampmeygkiqptacbudggraknpslwrup, weight 31939, type Beast, PREDATOR
+name ihuuhmworfigmyhvqhtutrskg, weight 22628, type Bird, this bird stays for the winter
+name olknylvqihzrlplwjjrvgfbfitofxhdntpataxliekzr, weight 39548, type Beast, PREDATOR
+name psxpmaeyubepgoc, weight 13475, type Fish, RIVER
+name wzcryjeeyjlxhgmywmlalijiypvmrpqpptipcntdygafppgld, weight 44872, type Bird, this bird stays for the winter
+name woeszmfmqyoymzlnznlwalqufmtrybowpuqogwcz, weight 37813, type Beast, INSECTIVORES
+name vtmzzczufvtvfioygkvedervvudneghbc, weight 30846, type Fish, SEA
+name zjqawapilxyzhhumzfvfpezquaklhmhgwxjuxaclzakgh, weight 42377, type Beast, INSECTIVORES
+name tjpazfritpfesfsqgrxekxcgmtmvvgfqqwspdjxzadd, weight 40585, type Beast, INSECTIVORES
+name ukozljwpeulyharmckvrafsrq, weight 23723, type Beast, PREDATOR
+name nwklcupvaeabviddxaxazqlbcddgcgoreacixudzyeav, weight 40679, type Fish, RIVER
+name nadqhdcnvwdtxjbmyp, weight 16950, type Fish, LAKE
+name kmbpmsrzupuuqpiypffvktorqytva, weight 28264, type Beast, PREDATOR
+name gljswslfcnvqzglzsouljhnmvltfgpwpdhhzz, weight 35783, type Bird, it is a migratory bird
+name yzrezdtusxwpwmywnmgvqizxqvtrgajgzdmbgfvzctobho, weight 44950, type Fish, RIVER
+name thsyqm, weight 5942, type Bird, it is a migratory bird
+name zdbndjizayyrljxrfofvyiylqqlbbypcbtq, weight 33715, type Beast, PREDATOR
+name isbkmpfjaiqeeruxsgsoggdknisr, weight 26643, type Beast, HERBIVORE
+name jbyjlygygaorjhguskzaahziwiblpcubeumrvsr, weight 37596, type Bird, it is a migratory bird
+name vsvexacisotbuxehoychifsowzuvwno, weight 30671, type Bird, it is a migratory bird
+name caibsnutkhtevylciznigkcohccywooao, weight 31903, type Bird, it is a migratory bird
+name ejhyuloiqumguwecnnuzbpzvntoqvliawsatdobtkpzhlejyt, weight 48408, type Fish, LAKE
+name zybovnhlewc, weight 11024, type Bird, it is a migratory bird
+name kxuumjkqcukaxqwniermw, weight 21198, type Bird, it is a migratory bird
+name ybrudecrapwoydynikfearrqqnboidcieteh, weight 35328, type Beast, INSECTIVORES
+name rntivyuqvoyxgytzekswypcptjpvjagaobllzh, weight 38777, type Beast, INSECTIVORES
+name kpkjhyzmbvxqfdyjtnsvinnznujczrmlhwvqxweyrbqyeoha, weight 49000, type Beast, PREDATOR
+name jzljbjbgzjjfrlaop, weight 16775, type Fish, LAKE
+name gwu, weight 3118, type Fish, LAKE
+name uruapwpbzbyhauwohommusednzdmcmrydnbulqvktvutsqi, weight 48346, type Fish, SEA
+name gkhufsuevjaxrnivcorhfrqqwnujquoyevslqprlys, weight 43445, type Bird, it is a migratory bird
+name cvkzvgbofthgojhdnaywpnbitoraaibed, weight 32984, type Beast, PREDATOR
+name eoednzbwxotnwjgmypyakesezwmgtyozou, weight 35329, type Fish, LAKE
+name uoesuhajygxbzmralrbcnqjauietpxvllbffkfrilqlmc, weight 46113, type Beast, INSECTIVORES
+name jdqkvevshhjssnzosstdgwqhelqibumkzcwujsn, weight 40941, type Fish, LAKE
+name ufmvkyszigbuhlsdbofdmx, weight 22930, type Fish, LAKE
+name jvxmnvybinrgngqurtyxuazmvrlumyuvvrj, weight 37782, type Beast, INSECTIVORES
+name mzxzopssgmcnicswxwtwheibqvithyevzevptn, weight 40599, type Bird, this bird stays for the winter
+name bfkxmkmcjbiwupwccwqguznw, weight 25239, type Fish, RIVER
+name veckypqofxck, weight 12602, type Bird, it is a migratory bird
+name khwynawcgdfjzgmqmrygbaicpqiudqpnylnnoksu, weight 42094, type Beast, PREDATOR
+name hbzqjblsumegjtfshmvrohectbevykxhnyxwcirywxefqjzx, weight 51907, type Beast, INSECTIVORES
+name ppvblgygtliaodlggyxrkpsinxcgpfngxijirkqmvymjdz, weight 49542, type Beast, INSECTIVORES
+name zxuvtqvnxbslqzkglzamzpdnsjolv, weight 32101, type Beast, HERBIVORE
+name pdevdzwiqdyungksqlqnzdjqepnlpfrekwzoxwynbwjqetiu, weight 52616, type Fish, LAKE
+name ocpgvzrwxshreerotwpsmgtyjienjbrzgg, weight 37268, type Fish, SEA
+name oioubwxbsibtwyibiikydbunojtvllscvjwyfta, weight 42612, type Fish, RIVER
+name fpwbqxvcyzhhuygjhhltgoteaznhvlkaaidqhzsfa, weight 44497, type Fish, LAKE
+name zyvumiosmbxmwfpnodhadnxgpsblevegvbahlqcxrzmqebfv, weight 52411, type Bird, it is a migratory bird
+name vbxpvwkkteaiobawgvgblarjtolsgzdeba, weight 36710, type Bird, it is a migratory bird
+name snbujffpcmkivbpoimnrddnrcuzdakatx, weight 35747, type Fish, SEA
+name lorellnmpapqfwkhopkmcoqhnwnkuewhs, weight 36227, type Fish, RIVER
+name zsezyqiblvquvjxbobjdjjovzyrrue, weight 33596, type Fish, LAKE
+name bettduny, weight 8853, type Bird, it is a migratory bird
+name hacxyhzqhgetgriewfbwobgrovwfxkqem, weight 36233, type Beast, INSECTIVORES
+name kegzyofagykcjtaqjousxioodhytpfycjfbjvilbgwfqp, weight 49570, type Bird, this bird stays for the winter
+name qocwpsqrfezrlhplqlksnvsnhywntfbj, weight 36024, type Fish, RIVER
+name yyjocjnkfhjyvjkehgfwb, weight 23275, type Bird, this bird stays for the winter
+name zwtdfvirbosvmjfcymdrzqzkpgemjaojyjofeywimqd, weight 48587, type Fish, LAKE
+name ytoiyxefdorhuka, weight 16980, type Bird, it is a migratory bird
+name inmmyxdjjfevayzqtlzqiojxybmndxllmxzlwcwgjadjaeb, weight 53304, type Bird, this bird stays for the winter
+name edmkcxufwlhdrxershqatgswgusoyupexd, weight 38809, type Beast, PREDATOR
+name aujwmtmclgdvwaleiivuuxszpaqojvamrjkdfwfsfjoblbhtj, weight 55513, type Beast, HERBIVORE
+name qzqgkmlhqfdimnwzgsplorownpgehioxhhfrvq, weight 43659, type Bird, this bird stays for the winter
+name ekexmyzrzjsuiwjrfduujgrkuddsfkjjwqjjoiaptulbquvx, weight 55390, type Bird, it is a migratory bird
+name hkltciufqxhaawxsqimnewlcaccecgxkskfwuzdk, weight 45353, type Beast, INSECTIVORES
+name imwmonupuxideblev, weight 19589, type Bird, it is a migratory bird
+name ywumbffamxdnxjqoyirmirerne, weight 30243, type Fish, RIVER
+name dgoupocbremuaqsdcsctneihzrvboyrsghmvvpyovkjvadadw, weight 56789, type Fish, SEA
+name qhxrkiueziowoqjpiecwxxbjtnmkjgncpmvau, weight 43371, type Bird, it is a migratory bird
+name lxvlkaebvlrbnrimsbwvfr, weight 25704, type Bird, it is a migratory bird
+name ngougjxpbjgvslucnvqa, weight 23431, type Beast, HERBIVORE
+name zizqpccdrfwtbaslvjxbwljfxvmczkrassq, weight 41668, type Fish, SEA
+name uqgtyt, weight 7432, type Beast, HERBIVORE
+name bjbrpmixfclbstnosvdkujc, weight 26902, type Bird, this bird stays for the winter
+name cvpupqfvnlbiodsatuznvldcoixuxudcpvw, weight 41877, type Bird, it is a migratory bird
+name whxtembaqwqwpqhsuebnvfgvjwdvj, weight 34674, type Beast, PREDATOR
+name qzswzjjlenfvbiywbasfbugjuutwqevgdncdylqeyyzzgaxha, weight 58756, type Beast, HERBIVORE
+name nljgsoxleuyyfquto, weight 20738, type Fish, RIVER
+name ekmcsloxmgnihooqu, weight 20235, type Beast, INSECTIVORES
+name uprpukkzmgkzyuhdtolwyoftmwjmpapmrjbmvllhsxhsrqvkh, weight 59552, type Fish, RIVER
+name iqyhharkejbztwutaddnaicxdvvgub, weight 35581, type Bird, it is a migratory bird
+name endtomfgdwdwfcg, weight 17506, type Beast, INSECTIVORES
+name npnfejyinskybgzryw, weight 21947, type Bird, this bird stays for the winter
+name vckrvtmihlhnbbgycnxthqtskcjg, weight 33577, type Bird, it is a migratory bird
+name puqk, weight 4977, type Fish, LAKE
+name ynclvgnqcjsnhla, weight 18051, type Beast, PREDATOR
+name hogonzpheevzetkvygpvbdhcaisjpbfwslmflbopgmqmfcjdk, weight 58932, type Fish, RIVER
+name tqwinmxvzsdtwltmvxeatytrillkbtp, weight 38878, type Fish, LAKE
+name etexfnsnwvnsvtjiesaresyegkajhhylcelhsdwqalixerg, weight 57295, type Fish, RIVER
+name rlpxaexxhhwhmcnybcopnaewkpdyo, weight 35496, type Fish, RIVER
+name uwqknpsubinwpggvqmjaxfsgr, weight 30974, type Beast, INSECTIVORES
+name ywfbocfuchoyammwwjerxoapqiwbblw, weight 37998, type Fish, SEA
+name bdhofnslzkkcvvsmknukdpvcjdrchppi, weight 39139, type Beast, HERBIVORE
+name algmrjuylfwbperszskbbpcwf, weight 30750, type Fish, LAKE
+name rujigskmvrzgfwv, weight 19018, type Beast, INSECTIVORES
+name muzacuynrpcrqwny, weight 20434, type Beast, PREDATOR
+name jr, weight 2512, type Fish, LAKE
+name eejwgzgnlinnhzhofffhlsokqgxlkuzqalmimv, weight 47382, type Fish, SEA
+name hnqflpvtpqodujingqnvcyeamlm, weight 33796, type Fish, SEA
+name echqxwuakkjujizmumxmzhqxkjhenuluyskxogxbqh, weight 53434, type Bird, it is a migratory bird
+name ymxmmpujnobtljyen, weight 21678, type Beast, PREDATOR
+name aeugqcbtrvggvdxfnlcdajjnqgvqpedrizaabbtswbbte, weight 55473, type Bird, it is a migratory bird
+name kmfasldbbhxtvhntxdpopphqxgqejnbwcgyutcxujvqgedaci, weight 61682, type Beast, HERBIVORE
+name upfoohhtkaxocwu, weight 19224, type Beast, PREDATOR
+name mklyogidfmassjmehgkdzylrkbytzh, weight 38185, type Fish, SEA
+name qrtksoxmyspftzkihkrpunhxuhejormgjhsdwqs, weight 51031, type Bird, it is a migratory bird
+name flhnxlzsxforkaqlymcbknlrbaybvina, weight 41016, type Beast, PREDATOR
+name tlkkgeflke, weight 12549, type Fish, LAKE
+name lhvaqsvnlynygybi, weight 21134, type Bird, it is a migratory bird
+name awitxysjqzncipttncjtjhrtvkwwojbqhjjfkboacc, weight 55019, type Bird, it is a migratory bird
+name bsddxpmaosdkdswbkosweec, weight 29650, type Beast, HERBIVORE
+name zkmkwlyiqdchghrgytzdnobqcvdeqjystmepxcaniew, weight 56397, type Bird, this bird stays for the winter
+name jvjfxnmwfrpzxwametiresniiglgtjsegdjfrvcyotxlqzawv, weight 65203, type Fish, LAKE
+name eekwppmjmoijjh, weight 18253, type Bird, this bird stays for the winter
+name dkfivufokvcpqoxfunsrptvshhgzbcogotpknuyzqdqir, weight 60150, type Fish, LAKE
+name suspkydiyjkegwkokpcmkvuhvipvzaquwk, weight 45902, type Fish, RIVER
+name ejsmmasmeikjwtrinqukmwdemsikjgdps, weight 43720, type Bird, this bird stays for the winter
+name harvrlyau, weight 12087, type Bird, it is a migratory bird
+name jrltoknpdyhsdyfdbrjwdryfbkagjjqscdlqnagqap, weight 55231, type Beast, INSECTIVORES
+name zvahnvkplpfaotxngexrfczzdmu, weight 36615, type Fish, RIVER
+name luperciinlqxoctvrindifjkaqvcgaaruryntivitnhjqcgh, weight 64165, type Bird, it is a migratory bird
+name rhtahvkvcrkkoxlhtyjvsaqifjbxaxkuhgwqbglfzvqn, weight 60122, type Beast, PREDATOR
+name qhppetqceqsbhqcrgrttmjygnibdorreygvfblhfcbiltm, weight 62117, type Fish, RIVER
+name baxvcvuprixikpgckondravcyiurlgko, weight 43837, type Beast, INSECTIVORES
+name jwubywfqiaoylzafguszskcdnljarmzditeiplbzm, weight 56960, type Bird, it is a migratory bird
+name fjfcqqohnr, weight 13770, type Fish, SEA
+name bauvddclvaejyoxrzzohjzqefpmhugxxhtvmwz, weight 53886, type Fish, SEA
+name rnkbldxguzgcsec, weight 20759, type Bird, it is a migratory bird
+name diwncwjxhrfbqygvfjdorfdyzcrkylidvgqxebwmu, weight 57798, type Fish, RIVER
+name pushmomgdyphxgmdbibucycmyxoscnutjm, weight 48065, type Bird, this bird stays for the winter
+name xbqaquyetwifthnsxrggoqbhxiqsvzzscqutmsz, weight 56376, type Bird, it is a migratory bird
+name bebsgfyyhpcebzgagmuxuopxccasfmwisxcyfbzm, weight 56133, type Beast, HERBIVORE
+name xftvdqgxzlvrneaynufhgyqxwaqzelmbsiyxaeubrqvguve, weight 67480, type Beast, INSECTIVORES
+name bxvmlwdazaaoxnamhlcymxjxxnmsqi, weight 42829, type Fish, RIVER
+name zsilfyhpbwmdgrwiaozjixhikawwctndoxotvvkwsxbaoyipm, weight 70701, type Fish, RIVER
+name ltqpbkpxwmfdhzrcmrowvmxleitnenur, weight 46368, type Beast, INSECTIVORES
+name xdpcwmjobmskskfojnewxgxnnofwltwjwnnvbwjckdm, weight 61853, type Bird, this bird stays for the winter
+name zpmujirqjojpbuzxhdohnjqdpkdulnykekgnszddnps, weight 62467, type Bird, this bird stays for the winter
+name gotdrwyevqyveanupskteiexzvxyfvqmmkrfipkdf, weight 60407, type Beast, PREDATOR
+name aclnpecuqjeybjqtalhzyhvcqrpkhudhzowqu, weight 53903, type Beast, HERBIVORE
+name scxoftmqlaejlfroriljykmawhrgdhmvmljrhvjsynclv, weight 65590, type Beast, PREDATOR
+name gyetyyepfaesjlkzivdevdllygazxjndjrxhrdyyddqnqdo, weight 68785, type Fish, RIVER
+name qhagdzilobfajdiyddtzhwvpgnwyecexlg, weight 49178, type Beast, HERBIVORE
+name ruvtsiuiafprbjgpuqlatxkrsdyronxiisbacxkdczw, weight 63432, type Bird, this bird stays for the winter
+name xomegery, weight 11897, type Beast, HERBIVORE
+name rwibmexsltfzvhxhhaxmfyxzbilfqntjlcmagmstfysah, weight 66817, type Bird, this bird stays for the winter
+name sqixldpkivxvitpvhatbezoawnpkwjkpbummzdzhayfl, weight 65880, type Fish, LAKE
+name pxvdcjbxbrgvozwskdiaxgpk, weight 35746, type Bird, this bird stays for the winter
+name paanvujxokkruzhxeokzmnkalxsdisiaui, weight 50886, type Fish, RIVER
+name rrqyznhxfnyskotzoxnagnbicoyafvvymnwobglgt, weight 61982, type Bird, this bird stays for the winter
+name psjidlclpwcmtnzwtghaxropfaujpkfgeqohbtvqpzek, weight 65606, type Beast, INSECTIVORES
+name ycvfwbcuofepuowfqmouoordfttdvapudkbzmgvclzsfpom, weight 70445, type Bird, this bird stays for the winter
+name pknjhmhakogspypzrwxyuycpoxewzgiqtxzcjgetxkmmk, weight 68552, type Fish, SEA
+name avfcizdypitqzhysbzettjsgnbxstafvxkxf, weight 54501, type Beast, HERBIVORE
+name yxulagmdcrwlgbsfmcvwomfgmtpxxyfywzjyhycmpyxx, weight 67238, type Fish, RIVER
+name fjbfkcrgymcznruyiwtrvunutosbjgyopbvbdo, weight 57377, type Beast, INSECTIVORES
+name nkkwbrcganapaqvzbhtdxvomdahdamnnwzjzrlhtbiidy, weight 66859, type Bird, this bird stays for the winter
+name bpiwuqzdzubdubzvafspqpqwuzifwovyd, weight 50544, type Fish, LAKE
+name aolshpbj, weight 11704, type Beast, HERBIVORE
+name zt, weight 3274, type Fish, SEA
+name tvuebvgiqg, weight 15082, type Bird, this bird stays for the winter
+name elfynzeavaaceazuimydypvmgyxblhppuun, weight 53147, type Beast, PREDATOR
+name abwzguccscgcqkxcyuqghapyphszasf, weight 46721, type Fish, LAKE
+name mihntkddnalwnmsxsatqqeldacnnpjfermrny, weight 55867, type Bird, it is a migratory bird
+name fmujtvdicpnttrrjzosvslursenhs, weight 44979, type Beast, PREDATOR
+name ztwxlgkifpplmlkjgddseilasrtriiqhdoe, weight 53061, type Bird, this bird stays for the winter
+name qtnrsgnlxvnidmlppsu, weight 29623, type Bird, this bird stays for the winter
+name rjxlmqdhxzfdjwpaubjqkveulfseabxrmwfyniiminprl, weight 69388, type Beast, INSECTIVORES
+name bjjpdjhdeavknykpoxhxclqqedqavdwzoiorrwwxyrhlsrdg, weight 74407, type Bird, it is a migratory bird
+name ziqgbzdofeimmlbmpjw, weight 29172, type Fish, SEA
+name hjynjjbhhoejpnsoqioadvynqrboxnigzh, weight 52652, type Fish, RIVER
+name dvislcczswfqemaquaizaffg, weight 36796, type Bird, this bird stays for the winter
+name myfwkfttybwfpsradkhbwczlg, weight 39007, type Bird, it is a migratory bird
+name gvsaghoccxldvltscziiyciiqsklpsoyniyvsoyumlyjwtcz, weight 76058, type Fish, LAKE
+name fwkfhfylzbalqjpyrxmjzyvxknyime, weight 47598, type Fish, LAKE
+name dqtzsxoggdbtumtpndjvehqlmjkmvdfytyzoy, weight 58702, type Bird, this bird stays for the winter
+name apdtutpbztygnsrxajjngcomikjzsdwssznovdru, weight 63591, type Beast, HERBIVORE
+name ckvnzvzuvpvqodcufxjzrvaxrxsaxjsbvooxlorifmyvsa, weight 74437, type Fish, LAKE
+name rbcxkacikrfmqrvjemzcugnfrwidhfgbji, weight 53059, type Beast, PREDATOR
+name kavnmkefzeeijamxsixyusduiftcvvgfxbvjoz, weight 60633, type Fish, RIVER
+name oddkgcjwklszvilcmymnmeikklkskvvzbylhcwfpjxoff, weight 71691, type Bird, it is a migratory bird
+name gemwphjkbrwsqrreangcatuvblytlhprlepalzmms, weight 65572, type Fish, LAKE
+name rokiktoxoikcuuispfjwhqkapymhcaqtpcdzvrzlbl, weight 67831, type Fish, RIVER
+name ovccwcqaycfjeibclzkgsqanifmtfxsusuyqzoqxsyjwgka, weight 76280, type Beast, INSECTIVORES
+name mhmitpxltadcsyzdszbpwnfojodbqn, weight 48762, type Bird, this bird stays for the winter
+name rexnlfnjpbnyqyfxjfturzbyfzztybzqfydseqcvtr, weight 70100, type Bird, it is a migratory bird
+name ecflmdqqvmfwveiaqyuvrtkgxlyhwhy, weight 51371, type Fish, LAKE
+name vkcmymdqbxolbfjtzyfwtmbbungzfpcbbgpzusqxqejrlsmk, weight 79369, type Bird, this bird stays for the winter
+name afqjyxopljmceyjzysheisgzrmiznqxpvqzunpjyav, weight 71049, type Fish, RIVER
+name quhmqudwghhlgascavggytk, weight 37841, type Beast, HERBIVORE
+name hudzindgevprzqaikfotkiiwkpyjfgmo, weight 53007, type Fish, RIVER
+name vmaptvhyyews, weight 20571, type Beast, HERBIVORE
+name ryzmpjevzguiuzzxoiblltwhbdogj, weight 49193, type Beast, HERBIVORE
+name nexikdzpbefob, weight 21331, type Beast, INSECTIVORES
+name gxdcjpal, weight 13003, type Bird, this bird stays for the winter
+name aoogoblw, weight 13451, type Fish, RIVER
+name kgklyckqsswtiskrzxpzackccrlxnwrxecifeuv, weight 67799, type Fish, SEA
+name ccozwknwyhzgpqlwfkjqipuujvwtxlbznryjdohbvgh, weight 75413, type Fish, SEA
+name pbpbrvaywjlfcjhzgnxoxauecmmeufpljfpacrazaneewndec, weight 83340, type Bird, it is a migratory bird
+name xhffoilxebcbjioexqzyokiuuiowwegunozbwmycqddzltdim, weight 85501, type Bird, this bird stays for the winter
+name bexrampetvhqnddjeqvuy, weight 36611, type Beast, PREDATOR
+name wxwbwogfhyomabdazbkokdmgwt, weight 45161, type Fish, SEA
+name zkvzeeubynglxfdedshtpobqsdh, weight 47221, type Beast, PREDATOR
+name tzlqsekejhzksklfepxchvczysvdgcxbbiswmeaylzifk, weight 79118, type Beast, HERBIVORE
+name wvbjrrphjiwffgszzcisqoxlprqkqnloloae, weight 63750, type Fish, RIVER
+name jznquyfby, weight 16433, type Fish, RIVER
+name ljimkdkzcvaykjtcnuljmzkzaryocauolcavimu, weight 69237, type Bird, it is a migratory bird
+name mkveaiombckftocwaifitgjwdnpapezbqwhqh, weight 64698, type Bird, this bird stays for the winter
+name kmtnycpdwdmeigjbbcubr, weight 36668, type Fish, SEA
+name yvbcbovuooifpybeeqdrsaetkfsvobdmwhqyvoujceotdsxhk, weight 87396, type Bird, this bird stays for the winter
+name kaobforctuqbjyktmayqnqkhxytarwvdyjfdawhvrywcyhx, weight 84785, type Bird, it is a migratory bird
+name rqmhbokklgklxdeywnhfepukibqwo, weight 51614, type Beast, INSECTIVORES
+name bwzdbczhnugsipopcpsbvqrvuwdvgw, weight 54415, type Beast, INSECTIVORES
+name qahmxkybbscevnyjoitpfpvcdmyhietzgalfkjindktzztkpc, weight 87632, type Beast, PREDATOR
+name uebnffxydxphpiqggbgobwsoktwoquqkarzfyy, weight 68780, type Beast, HERBIVORE
+name xmmwqbeulqjwtvnetiumgmohepjfwnruadsqgym, weight 70646, type Bird, it is a migratory bird
+name xwvbqxorquowzhpmdzjlrlcncyoywb, weight 55367, type Fish, SEA
+name jelegorxbufruwdymshdbzvplkiykbuwgfc, weight 62993, type Beast, PREDATOR
+name cbpqnxjciekllnpedbpfoyyczqds, weight 50064, type Beast, HERBIVORE
+name poejcvxtmfjnnmgriahlfxrarenovzwkpcwsxtljaxzo, weight 80194, type Fish, SEA
+name etrjogcqweajjrevzntk, weight 36187, type Bird, it is a migratory bird
+name zhyvhgvwujbqxxpitcvograiddv, weight 49518, type Beast, INSECTIVORES
+name onzitmqloilduvkblansfvqduba, weight 48778, type Beast, PREDATOR
+name hzkfkptetxpmdbs, weight 27355, type Beast, INSECTIVORES
+name ykwpawkaofxvegafbleamibtikekvkguuelwbwwpdwkhemph, weight 86513, type Bird, this bird stays for the winter
+name pqpxrjxkitzyxacbhhki, weight 36841, type Bird, this bird stays for the winter
+name hxdnzyhormwjcxfbobwr, weight 36869, type Bird, this bird stays for the winter
+name pzcqrgppmcsf, weight 22012, type Fish, SEA
+name kgliumtgeguqwdygovofuhonffzhevdrbozwdschawawcye, weight 85821, type Fish, RIVER
+name tksslykajataxgpdmyldxukdnftprrumbmemlrowrhwoqn, weight 84822, type Beast, HERBIVORE
+name wekerfmfzrhagpxrbxtlajsb, weight 43723, type Fish, SEA
+name rmydiajxlogh, weight 21861, type Bird, it is a migratory bird
+name soaifzyxnjcberrnmixxsyjhove, weight 50128, type Bird, it is a migratory bird
+name bknhkwppanltcfirjcddsozoyvegurfwcsfmox, weight 70073, type Bird, this bird stays for the winter
+name bc, weight 3342, type Bird, this bird stays for the winter
+name sycqh, weight 9365, type Fish, SEA
+name ynpygfsxcfyzqreghuxqoadrmywpjscjfrhny, weight 69451, type Beast, INSECTIVORES
+name rllcdeeqleqsbtlukvbeykfngxhgkupdhah, weight 63977, type Beast, PREDATOR
+name fylxvgtosvfdkjcdulihfudrtrtaoaywakv, weight 65810, type Beast, HERBIVORE
+name uvsuyoypayulyeimuotehzriicf, weight 51747, type Beast, PREDATOR
+name rwbnizhuwtgalykmrygzktwhgctjsblkxnzhmhdkamlnkxa, weight 88668, type Beast, PREDATOR
+name hfqbtscifivhtkipsawgrcjosgfblnmuseylwawdir, weight 78350, type Beast, INSECTIVORES
+name oyvgmliuqandlyavfa, weight 33721, type Bird, this bird stays for the winter
+name mouwqhodsgcfohesyshmgxwtoayuvnojd, weight 63038, type Fish, RIVER
+name iuxroknqcvcfclryeraaxmoidvuzuvgep, weight 62814, type Beast, PREDATOR
+name jvfsjiehhubqyu, weight 26512, type Fish, LAKE
+name bdrzngxnrwcglujfcmellpkmctltueqvkjuxprmipp, weight 79921, type Fish, SEA
+name rznwjclbrblhbpdcevvgmsvuzuduhvryvgwe, weight 68850, type Beast, PREDATOR
+name vqyzmaxhtysguwstdmizsgwnboxhhyccr, weight 64021, type Beast, PREDATOR
+name plpnfdydpxzrwsfflvyncjzxlfhoy, weight 56067, type Fish, SEA
+name fuyketdeavxtfyttcu, weight 34626, type Beast, PREDATOR
+name khbxblwkqrebtmp, weight 28388, type Bird, this bird stays for the winter
+name nuokvjrtubzukzdfjt, weight 35180, type Fish, LAKE
+name hxpmjrhfawdibzbf, weight 30071, type Fish, SEA
+name lsnjvetj, weight 15584, type Fish, RIVER
+name ylhavnylfzjgexqkyfqqnridnrnhwkwuxeustugyv, weight 81162, type Bird, this bird stays for the winter
+name loceykbkjlisjkdoxczdtfw, weight 44277, type Fish, RIVER
+name qvdrnkjbzrddtwwrtwiiauc, weight 45005, type Beast, HERBIVORE
+name rasnwbxlvtlysaffgumhqzjqaydkvwppyj, weight 67001, type Bird, this bird stays for the winter
+name ixwayrlak, weight 17651, type Beast, HERBIVORE
+name fjjpawtdmgbpjilgzbxgmxuj, weight 46413, type Beast, PREDATOR
+name wckkwxrkapaeuqidhdvymrpdkvcumuekwpuumlfmahsuxdzgg, weight 95983, type Bird, it is a migratory bird
+name fdesljggpdalxvjnwygvqegpmspgdcjignct, weight 69448, type Fish, RIVER
+name brnhcajqhibugtjjqzrfgctploygteewvrgaupsbztxhoh, weight 89839, type Beast, PREDATOR
+name ttckwqfrpeued, weight 25461, type Fish, SEA
+name schfoxjbqcuz, weight 23534, type Beast, INSECTIVORES
+name hlcpgtkjnhnwwnyfvfzkcygzxwnteyrnmvcsombdvq, weight 83961, type Fish, RIVER
+name vgnfcavtnatgyqtuusnsvovahtpfunppvdux, weight 72716, type Bird, this bird stays for the winter
+name llbbhthorpezfhjqke, weight 35181, type Bird, it is a migratory bird
+name ntwrvtlbmstfemisdnslpavokkovqphekfxi, weight 72155, type Fish, LAKE
+name ijpcxxbcmffnlvnfpddfjmyugkeyemkmyzqvwszkxfxl, weight 88343, type Bird, this bird stays for the winter
+name vigetaglvdbafoifdamohyupstslw, weight 57314, type Bird, it is a migratory bird
+name szmmhgbpogbbrtvpkfxwqsxsrgsbh, weight 58420, type Fish, SEA
+name cbxulyoqklcnqgbkdtirvbkghfyzllsompkznyrzlvncbooh, weight 96454, type Bird, this bird stays for the winter
+name fspssxgwzzzlykevhxxgeqmahltovorbiivcfczgdatbka, weight 92595, type Bird, it is a migratory bird
+name lfddoyrvzggneabubhnnkigwntxjuvnfaskpsdkum, weight 82313, type Bird, this bird stays for the winter
+name qlqkykthgpgwkostwfhsgapkzw, weight 53189, type Beast, PREDATOR
+name tdksiyazhuimytvjhuocmuqwpcsyedtzjdsresrloz, weight 86415, type Fish, LAKE
+name okoredhnydbjxfggdelwgkckbfmci, weight 56995, type Fish, RIVER
+name yluawicltnbcvnyxsprjsmigt, weight 51381, type Bird, this bird stays for the winter
+name drortgnddhkijfkuvsoucucblvudaumfmcw, weight 70518, type Bird, this bird stays for the winter
+name zyzlclfudgrrkgvrushmffpilkfwftjgrkrvyypbhj, weight 86047, type Beast, PREDATOR
+name dcpokjvurmddgklfwixujdtvqccdqmtvqijaueultyqbidhg, weight 97542, type Bird, this bird stays for the winter
+name webminedofdudnmymnpvnrmklftoongktizbxdfl, weight 81542, type Fish, RIVER
+name nriyvqtgtjrcrkypgulyvturqfwjm, weight 61271, type Beast, INSECTIVORES
+name fvafrqzfikrstgjlenkuooqmwvhebhhgciov, weight 73725, type Bird, this bird stays for the winter
+name elrnojqsghgiwanidggesvyqbcsahtinhaavlt, weight 77110, type Beast, INSECTIVORES
+name jibcnpvjhcjklpstcpuiguydouewzj, weight 61868, type Beast, INSECTIVORES
+name euenzogfnztvyilyyjoxdbmobmmdtipzev, weight 71047, type Bird, it is a migratory bird
+name izrkhpciridmtxsgaryvtfrrsowepchz, weight 66899, type Bird, it is a migratory bird
+name ofkasomzdbpvsajefbsn, weight 40816, type Fish, RIVER
+name pwtptmrqjcnzjuelymcqnlretb, weight 54712, type Beast, PREDATOR
+name isaceuglvapurnyepkwuavaztqnsbhjlzjoefu, weight 79238, type Fish, RIVER
+name aywogcwnio, weight 20895, type Beast, HERBIVORE
+name cmjkpyzvzcmuxdfcbdut, weight 41919, type Bird, this bird stays for the winter
+name ykkkuycnymvwydagicanorwladiilxsmhfwedytenoc, weight 89728, type Bird, this bird stays for the winter
+name pyuearhwgfnpaqelofrsotqiktxipqzeqvlqm, weight 78409, type Beast, INSECTIVORES
+name einkopmfpvomqueghdmxkynwxzqnswaxgnjwd, weight 78662, type Beast, PREDATOR
+name dxezrzgbpfhzanffeccbgqfmzjqtlrsppxq, weight 73371, type Bird, this bird stays for the winter
+name yxdou, weight 10981, type Beast, INSECTIVORES
+name nzbbdlthfdzopvvudpfymhipslenqemfenhjbcrggsxxnsr, weight 98698, type Beast, HERBIVORE
+name rohfavrdmqfncfxhowcgimmupeovulclalqcghiuaphc, weight 91263, type Fish, LAKE
+name zdvcmgouldohgimdkqwqllqxwl, weight 55207, type Bird, it is a migratory bird
+name weowpbajlnlbskamzxiuthdyhpzm, weight 59577, type Fish, LAKE
+name rnqvkqozztvxxhzpiphguzkonowtitnziew, weight 76974, type Fish, LAKE
+name efwgbggtlqapziszaobxybvsodp, weight 57208, type Bird, it is a migratory bird
+name atlqqcpbpbarrsguishzlcvf, weight 50675, type Beast, INSECTIVORES
+name boqedrjqtvjuayxujnswhp, weight 47501, type Fish, SEA
+name cvumqmrphqbgbse, weight 31746, type Bird, it is a migratory bird
+name jgokbqflpdznalsbgwumsbzyhyxvylqhseutwzgldhzfu, weight 97418, type Beast, HERBIVORE
+name zcgefyjqkjideblptusibjerhg, weight 54594, type Beast, INSECTIVORES
+name rycvgnypufphjustowpewbmufgasriwjjygpnehhlwpvsj, weight 99751, type Bird, it is a migratory bird
+name egpnnxawivneaartblywbugfeowsgxbkdqzrqapaxdfxfy, weight 98384, type Bird, this bird stays for the winter
+name enlkqs, weight 12900, type Fish, SEA
+name fpdawlohssvtqtkfvsyljzlucqxswyqdnt, weight 74888, type Bird, it is a migratory bird
+name buxdtwuuloqfargoqkzrlqi, weight 50267, type Fish, RIVER
+name dsdggfnbxnbqsjfqwupokitgcmiwtth, weight 66718, type Bird, it is a migratory bird
+name ejgjfihqrpkyoajdpkllvh, weight 46962, type Beast, PREDATOR
+name swmnckidivxubrjspdplacmetkizbjkt, weight 69208, type Fish, SEA
+name dqmxrmxjwtiwrogck, weight 37836, type Bird, it is a migratory bird
+name bsyzagbpcwcbmvuwmrgpixwarajvpycssartgskkqomcj, weight 98753, type Bird, it is a migratory bird
+name djkkwsffkjoquthpxfgrfrjetfbdvdfbmq, weight 73658, type Fish, SEA
+name hsyirqvxryrwbmbmepfpzeyvkrzajz, weight 67481, type Beast, PREDATOR
+name ejklppxbxuwottcuyjsolwkzhdmruqozbamsp, weight 83214, type Bird, this bird stays for the winter
+name ygqhmnrxghbuivfzypdhwdmpcmrtbokzvbghozewjh, weight 93661, type Beast, PREDATOR
+name rxxbelrdhdormtaxeftuxyhosxsdtbxkyuoehfko, weight 89772, type Bird, it is a migratory bird
+name omwkucznvdgztqarsargkwuaheyvohletjq, weight 78492, type Beast, PREDATOR
+name mnfjjsytoxkbacgvowybplf, weight 51194, type Fish, LAKE
+name spxyzvyxjnixikameacxpeogddgavxenmbnnylkkb, weight 91676, type Bird, it is a migratory bird
+name dmmotyieuirzetrikjhfwkilneqagollbxbwxlastrtx, weight 99213, type Fish, RIVER
+name vkwsalpnbivgxtcrvuouv, weight 48224, type Beast, PREDATOR
+name dztsjxuqudxxjyijlmaaqpkculsdlwkqvdigcey, weight 88371, type Fish, RIVER
+name evtbyntmduprwuvuvnbdrvc, weight 52951, type Beast, HERBIVORE
+name gfgsqygebsmbpoiexpqhmebhhufehespkahc, weight 79831, type Beast, PREDATOR
+name zrjugcptmrserlhhoaudcboi, weight 54339, type Bird, it is a migratory bird
+name sgweefmmdtvlcmdqeypbdqfimqswvjqnqouwvgkybij, weight 98889, type Bird, this bird stays for the winter
+name hguccmkluloyzunslxhgxjyazitnxgr, weight 72387, type Beast, PREDATOR
+name dryxlmndqtukwagmlejuukwcibxubumenme, weight 80525, type Beast, INSECTIVORES
+name kflzqwxaisjgaieciwokiqbtbsc, weight 61279, type Bird, it is a migratory bird
+name vburczmgyjgfdxvtnunneslsplwuiup, weight 72662, type Fish, RIVER
+name jfckyatryekijksvusokcyeavwufpc, weight 69258, type Beast, HERBIVORE
+name sxeaknspecuznjxz, weight 37501, type Bird, it is a migratory bird
+name dncltrryzfmvdm, weight 32606, type Bird, it is a migratory bird
+name tifkfvyyyrnlfnhedjkivvoxxoachwqcewmjrk, weight 88238, type Bird, this bird stays for the winter
+name cbnrgebbmdypuoaysdnnkpesuboedrbhuqb, weight 79531, type Fish, LAKE
+name kjcazxdrtdgyrqscczybnvqqcqcjitlvcnvbmasidzg, weight 99493, type Beast, INSECTIVORES
+name ggxachrynqxqqmlfotpqhvokiiammqmv, weight 74642, type Bird, it is a migratory bird
+name kssfxtgpojxqiysrsqfwqdjqnqcgdqr, weight 73166, type Fish, SEA
+name qtmvanuuvjvahmvvuvsvhzkywhm, weight 64903, type Beast, HERBIVORE
+name bodjejdecxgp, weight 26898, type Bird, this bird stays for the winter
+name yfntvbzviexurkstwsmjzfkjqniwsm, weight 72312, type Bird, it is a migratory bird
+name fwogadspk, weight 20843, type Fish, RIVER
+name gpjqflmcaekqpsmr, weight 37283, type Fish, LAKE
+name tvusu, weight 12645, type Fish, RIVER
+name wivrfxjujjddntgeiqvdgaijvwcyaubwewpjvygehl, weight 99760, type Fish, SEA
+name evoyyuvzeugrvgqxqhvnezuw, weight 59637, type Fish, SEA
+name qpkuzjzhwsutpc, weight 34661, type Bird, this bird stays for the winter
+name rzreuessdofxacgicpgcpqyengvrvjam, weight 76235, type Bird, this bird stays for the winter
+name evalgiyailghngvnbtulazsqvpftr, weight 69433, type Beast, HERBIVORE
+name moiawcqxswkqwgxyazntnaikameybnuq, weight 77590, type Beast, INSECTIVORES
+name yzynprjnclnkxcmppczpvxsqqarvvawuzwjopsds, weight 98994, type Bird, this bird stays for the winter
+name jdoihpgssezrdfiljekuqpzxmcneeovqrlybdevv, weight 96341, type Fish, LAKE
+name sidubmecoqnsrulakerofyyrpivrkkheumyxz, weight 90460, type Beast, PREDATOR
+name hkcmtkhobxqedncjrtqpjwroqgz, weight 65485, type Beast, HERBIVORE
+name xnpglnbnfxjkxspbuoiphimjhvg, weight 66104, type Fish, RIVER
+name jjufpuwwt, weight 22793, type Bird, it is a migratory bird
+name wlcixyudnkuzqsdoweqbaapyx, weight 62181, type Fish, LAKE
+name xttqognrbaiakqllszkhfzconnmoqklpee, weight 83398, type Beast, INSECTIVORES
+name tmsdwvebylynxqyzkonalvqfscjt, weight 70229, type Beast, HERBIVORE
+name ejprrxtvodtzzduonaigmfdalyzeocx, weight 76993, type Fish, SEA
+name iuqbjclvlazamucimicnewd, weight 55805, type Fish, RIVER
+name jxpeyyezviitjxxklddblaqkov, weight 65442, type Fish, SEA
+name drrwsofsbcnuvqhffbsaqxwpqcacehchzvfrkmln, weight 99229, type Beast, INSECTIVORES
+name gnynmbbjc, weight 21886, type Fish, SEA
+name kfzsabvnkwwmnxbnskwaarhcuhcqxoxktzcvaai, weight 98091, type Beast, PREDATOR
+name iduecokeefaksdottsfab, weight 51161, type Beast, HERBIVORE
+name jbsnphyrdfcciphajkojv, weight 51897, type Beast, PREDATOR
+name pfbhoqokfovzwomxyijwpm, weight 56486, type Beast, HERBIVORE
+name jxvkqdorxxvrwctdsneogvbpkxlpgdirbfcriq, weight 96893, type Fish, RIVER
+name ezdufctcjqmrkiwhwere, weight 50628, type Beast, HERBIVORE
+name bmyrniatqcndetayvqzjnuemzesmugwxuuqi, weight 93127, type Bird, it is a migratory bird
+name gzvjovnhuuxtdalgjccpruzqkysmwr, weight 78123, type Beast, PREDATOR
+name anuqzqpzqqifzoupifnwyankayhj, weight 72981, type Bird, it is a migratory bird
+name uguumoqcdrubetokyxhoachwdv, weight 67373, type Bird, it is a migratory bird
+name bygdrilvbxsfxmx, weight 39243, type Bird, this bird stays for the winter
+name gwdykpvbwmhrkrpwifjljjc, weight 59670, type Beast, HERBIVORE
+name roqamjxhvndallxkfytwttvvrpqegaqxog, weight 89474, type Bird, this bird stays for the winter
+name xxxbiwqakvxoiafdnybszfqx, weight 63281, type Beast, PREDATOR
+name byakijquuhbfxrvxyabjavvzfwrarvctv, weight 86631, type Fish, RIVER
+name rohmxmsmmhvodihdvfnxofbxmlclxvrojacj, weight 93790, type Fish, SEA
+name mokuxrndpdvmncntlbeebh, weight 56939, type Fish, SEA
+name vggteiysvcpwdausevrqrsjs, weight 63970, type Beast, INSECTIVORES
+name goiefgesmwwoukwpkmqagu, weight 58097, type Bird, it is a migratory bird
+name xgieayspfeipfkmjrzwb, weight 52956, type Fish, LAKE
+name txqze, weight 13995, type Bird, this bird stays for the winter
+name cdpbaaspuvjboqfkjaygucaozjy, weight 71052, type Bird, it is a migratory bird
+name ugon, weight 10875, type Fish, RIVER
+name yfdzrhbasjeuygafoubutpnimuw, weight 73110, type Fish, RIVER
+name wcbabrayhrkdcxsdrgsrmrampfzibgkxinz, weight 93806, type Bird, it is a migratory bird
+name yiexyqhkxxfhgxuzvtqsmzfrtigt, weight 78375, type Beast, HERBIVORE
+name eepehgvgvqjfavsntfiqnbvxputczznfdcm, weight 95009, type Beast, PREDATOR
+name lgtwsrighlkxtkaqpcdspxdc, weight 65222, type Bird, this bird stays for the winter
+name zpjfahczokdqlxfqcnf, weight 51254, type Bird, it is a migratory bird
+name odzrljdlslwlxna, weight 41177, type Fish, LAKE
+name zacuyvxawqrmplmkjmrpwbzqzcuygev, weight 86598, type Fish, LAKE
+name dhmsgjxluakv, weight 32702, type Bird, this bird stays for the winter
+name jwfmpqwfbszfnkzlpwfuxxhzkdlmc, weight 80396, type Beast, HERBIVORE
+name gjhpgpgsfd, weight 26617, type Fish, LAKE
+name qemvlkaxbcltwnhgmcjvmzwqvfalweiojujw, weight 99009, type Bird, this bird stays for the winter
+name qocslabruhfntslomkfwtvpgahmtynk, weight 85479, type Beast, INSECTIVORES
+name ijjjqziaaewjwccfyddqjuijzduhctclemw, weight 95689, type Bird, this bird stays for the winter
+name mzrphfoooioyvjdxnwbzhvqzwuprg, weight 82705, type Beast, HERBIVORE
+name hbnxaiafyvvqnbfyyang, weight 55250, type Beast, INSECTIVORES
+name rszfvrsiiwejjmfrjsxavygprunykvbd, weight 90610, type Bird, it is a migratory bird
+name upxkzvltdnoqrjubnbkuf, weight 59762, type Bird, it is a migratory bird
+name blaqjjypezweldqwmgcyzbytnnvsue, weight 85004, type Fish, SEA
+name xjxylix, weight 20586, type Bird, it is a migratory bird
+name zedor, weight 14142, type Beast, INSECTIVORES
+name fphuifcjhknydvsgmivmv, weight 58964, type Beast, PREDATOR
+name vjtdhvtjmexfqb, weight 39444, type Beast, INSECTIVORES
+name zqirctpifajbpbusvutpwmudnbcn, weight 79187, type Bird, this bird stays for the winter
+name rpgkcttmkrgtekiclinfszdkls, weight 73167, type Beast, HERBIVORE
+name nkvhzawnifiufgkjcetrkqdskgecyqan, weight 89595, type Bird, it is a migratory bird
+name ltlpiqroom, weight 28779, type Bird, this bird stays for the winter
+name fzsertghbpittnjiudorb, weight 59410, type Fish, LAKE
+name enlkuqbrkjoluscvluvcuufbsmalum, weight 85501, type Bird, it is a migratory bird
+name yspxxqcvibfdeensgjgpzqcmnoxwoag, weight 88369, type Fish, RIVER
+name oreavpxo, weight 23096, type Beast, INSECTIVORES
+name chhkd, weight 13466, type Beast, PREDATOR
+name pwpbqromqawixezqkvlfbhwcoc, weight 74566, type Beast, PREDATOR
+name pwnhnqrikbwzltmvyhnfbzopzlbme, weight 84073, type Fish, LAKE
+name qkfqbmqimqpvrfaevrju, weight 57386, type Fish, RIVER
+name ddiyobqfspvcoul, weight 42917, type Beast, HERBIVORE
+name cmkbljopgtqvvhbgsdvivhesnkqxm, weight 83175, type Beast, HERBIVORE
+name dtuadyghtggrgsjkswufljxnlzwhetdjnz, weight 98517, type Fish, LAKE
+name bxsnlagafgyeqycligmsxkuwztqonb, weight 86717, type Bird, this bird stays for the winter
+name qrzhlmsaei, weight 28777, type Bird, it is a migratory bird
+name xapjveyyptcwjq, weight 41328, type Fish, RIVER
+name ksjncyocwwzczkctvyhg, weight 58885, type Bird, this bird stays for the winter
+name rsqurxllmzzpqpbqmnrstvsoor, weight 78462, type Fish, RIVER
+name julkfuzmxnafam, weight 40635, type Fish, SEA
+name ezwlnqiiezhibhaivyro, weight 58257, type Bird, this bird stays for the winter
+name rxkfhicainhwilkqmbpeszdigznz, weight 81136, type Bird, it is a migratory bird
+name pkzhhvlxcbxdwjccgtdoqiscyspqzvuqi, weight 97798, type Beast, HERBIVORE
+name yobyjsmjpmfzbenzfndqmguelnwsyetz, weight 95087, type Bird, it is a migratory bird
+name ne, weight 5691, type Fish, LAKE
+name qbwmvskxjmcspjztmtfmnxvlem, weight 78071, type Beast, INSECTIVORES
+name eskhumhvcgieur, weight 40964, type Bird, it is a migratory bird
+name cfvjhbezkamcppenhkczq, weight 60726, type Bird, it is a migratory bird
+name rlqwupbpikrzoeiusqigvtsouoy, weight 81917, type Fish, SEA
+name ugojkmiqndyyzjxyvidykpyaznxu, weight 85555, type Fish, RIVER
+name csqmnciazvrzyeupyvdkbtwh, weight 73202, type Beast, HERBIVORE
+name jvkawmucqdlubpmbqyfhcwmhfoogxzx, weight 93635, type Beast, PREDATOR
+name kdceukuiijaxowugtxfukageeksydl, weight 90236, type Fish, RIVER
+name acwtjypweuxvegybogsfxqhipbompu, weight 91978, type Fish, RIVER
+name foyhhsxhntdcctcmiupqzeq, weight 70393, type Beast, INSECTIVORES
+name asuakgzumqwotf, weight 43376, type Fish, RIVER
+name cnhgminmfjmqbvk, weight 45015, type Fish, SEA
+name xpenhvivthfi, weight 36990, type Beast, INSECTIVORES
+name zewvwxqgatvlevdqugapmlgymhk, weight 83960, type Beast, INSECTIVORES
+name kctnkjhryujnb, weight 39996, type Fish, RIVER
+name tkmwuszpjjptldqg, weight 50700, type Fish, LAKE
+name ifgxcqghpwmilwrecyfcky, weight 67997, type Beast, INSECTIVORES
+name wwynwqfnqrnvvilstiirmgduyuf, weight 86580, type Fish, SEA
+name ebhnlmwpmhwdvthsfque, weight 63037, type Fish, SEA
+name xibrxssnkxuhcggke, weight 54215, type Bird, it is a migratory bird
+name lpjxubisgawvffty, weight 51327, type Bird, it is a migratory bird
+name stpedqzndgycukefnmgyxl, weight 70766, type Fish, RIVER
+name ppmtbvuxxv, weight 33478, type Beast, INSECTIVORES
+name yxntndxqqsgkhvihb, weight 55149, type Beast, HERBIVORE
+name jkrudvlzitwiqkxzugctlb, weight 71752, type Bird, this bird stays for the winter
+name gfcqjdquxaxvvwenjwsucenpyxc, weight 87712, type Bird, this bird stays for the winter
+name jcxawj, weight 19220, type Beast, HERBIVORE
+name wrxsmowdyguzubhptazaxsu, weight 77668, type Bird, this bird stays for the winter
+name rjmowfrxsjybldbefsarcbynecdygg, weight 97282, type Fish, RIVER
+name itrcytzmzlpvszhfnadlcfua, weight 79580, type Beast, HERBIVORE
+name ponrhczmckntmjmj, weight 53101, type Beast, PREDATOR
+name tgytlwfsrzq, weight 38253, type Fish, SEA
+name buqcljjivswmdkqtbxixmvtrrbljp, weight 98928, type Fish, SEA
+name ptjbqnfgcoykyfojskluzuwst, weight 86784, type Bird, it is a migratory bird
+name ujimqwspslgvlcsaqbdbgwtbseett, weight 98739, type Fish, LAKE
+name vzpdwpvqpizqclgabbfgrznxmrnz, weight 97299, type Bird, this bird stays for the winter
+name okrygrpnvluhyxutlxzspk, weight 78539, type Fish, SEA
+name cyuyeqlljslmpfyokw, weight 63666, type Bird, this bird stays for the winter
+name tdtccxnnlveundxiddzvzn, weight 77504, type Bird, this bird stays for the winter
+name flfablvckbwyo, weight 44486, type Beast, HERBIVORE
+name bkljqlkdwcrk, weight 41377, type Bird, it is a migratory bird
+name rgffsjczznie, weight 42043, type Beast, INSECTIVORES
+name yynjawxj, weight 29367, type Beast, HERBIVORE
+name uxvieuoimmnzsoqotfs, weight 69429, type Fish, LAKE
+name mzkjwub, weight 25412, type Fish, SEA
+name mtaeqtmykcbrzkjuhl, weight 64228, type Fish, SEA
+name fpeqvzqcwawvzvmiwztsxctaq, weight 92512, type Beast, PREDATOR
+name hwwbszvyhicmf, weight 47436, type Fish, SEA
+name hbyxlltrbgx, weight 40128, type Bird, it is a migratory bird
+name ctyemaqzoqxesesmcf, weight 65474, type Beast, HERBIVORE
+name lzksdnwgzypm, weight 45022, type Fish, RIVER
+name ghcyds, weight 21665, type Bird, this bird stays for the winter
+name zhndqdphbvaskwghf, weight 61765, type Fish, SEA
+name znwxtliqfklil, weight 48819, type Bird, this bird stays for the winter
+name vddwqdfiw, weight 33091, type Fish, RIVER
+name wikzgtioogopp, weight 49026, type Bird, it is a migratory bird
+name ztyimeavouskzfvwt, weight 65420, type Fish, SEA
+name hcizjpxuorqdarzcfvdc, weight 74438, type Bird, it is a migratory bird
+name ghfrgrgyanjclxgzuo, weight 67429, type Beast, HERBIVORE
+name cehguw, weight 22211, type Bird, it is a migratory bird
+name wndryisjqera, weight 45570, type Fish, SEA
+name xisguiudzwknqklipr, weight 69678, type Fish, LAKE
+name lziybttlkvhxdooxx, weight 66419, type Bird, it is a migratory bird
+name qdisshfbnpayximjtyurhs, weight 84600, type Beast, PREDATOR
+name pgyfzhngsvcvxewg, weight 62006, type Fish, LAKE
+name nbumdladpycygtrgutpdz, weight 80604, type Beast, PREDATOR
+name wakkmpqakixkgciectdjrhvghv, weight 98215, type Beast, INSECTIVORES
+name pvzyjxupkyoonaclbsgzmhj, weight 89789, type Beast, INSECTIVORES
+name orxwaciwybm, weight 42733, type Fish, LAKE
+name dedhkiqhukrzhozmyxzn, weight 78121, type Beast, PREDATOR
+name nakhdnbpkmolkbwqztc, weight 73822, type Fish, RIVER
+name ikwrzjchrawkxfes, weight 63359, type Beast, HERBIVORE
+name zdondvazjwpczxkwzraaae, weight 87347, type Fish, LAKE
+name iolguzzgzptzevbqk, weight 69757, type Fish, RIVER
+name nazkxiyvigrbkzqwsfex, weight 81811, type Fish, LAKE
+name lckfpoqqpjojeqoifrqiqwf, weight 92101, type Bird, it is a migratory bird
+name pljrnjlefgq, weight 44049, type Bird, this bird stays for the winter
+name oboffjcg, weight 30984, type Bird, it is a migratory bird
+name ieazvmwnuufn, weight 49808, type Beast, PREDATOR
+name andrpvgogaxfzbqjdctukklx, weight 98425, type Beast, HERBIVORE
+name uhxhftslchluifdlevvcrju, weight 94858, type Beast, INSECTIVORES
+name wxqsiwjhklwbtvcwga, weight 75261, type Fish, LAKE
+name dmtlbfhsjypdjt, weight 57512, type Fish, RIVER
+name tiansizuin, weight 42318, type Fish, RIVER
+name pieisxmaclczlc, weight 57740, type Beast, HERBIVORE
+name hnytpvtyrwksektagfkdmj, weight 93375, type Beast, PREDATOR
+name plnfasgdytddhitvqqzbfx, weight 92516, type Fish, SEA
+name dmgdfvs, weight 28875, type Bird, this bird stays for the winter
+name xlbqkbgkdkufpnsmaqdavhk, weight 95253, type Bird, it is a migratory bird
+name qvbglvaumxbsqgmznffojcr, weight 97087, type Bird, this bird stays for the winter
+name cmlo, weight 16577, type Beast, PREDATOR
+name axesgurxt, weight 38954, type Beast, PREDATOR
+name jegebeocfuftsxdixtigs, weight 87771, type Bird, this bird stays for the winter
+name yfmcatxtuuasalc, weight 63477, type Fish, LAKE
+name zgjgeiplgwzjk, weight 55233, type Fish, RIVER
+name fkroiltuievcf, weight 54812, type Beast, HERBIVORE
+name zybnxcbebfkrgubeiqh, weight 80062, type Beast, INSECTIVORES
+name swedjsfjivvnpihsudcmyix, weight 99473, type Fish, SEA
+name rmqcfoimsxlsgmaghvwxy, weight 91692, type Fish, SEA
+name jdxicylkltdamom, weight 64539, type Beast, PREDATOR
+name cwnoia, weight 25673, type Bird, it is a migratory bird
+name sfkypcksjwsxl, weight 58019, type Bird, it is a migratory bird
+name vdcqdpmzmx, weight 44231, type Fish, RIVER
+name fufbubiyrrffmwaeeimid, weight 90108, type Fish, RIVER
+name rsztmpyowpe, weight 50449, type Fish, LAKE
+name qjxgokqxvgarejgq, weight 70799, type Fish, SEA
+name aqxxpyjedippvooimtgu, weight 89845, type Fish, SEA
+name xxphqooepdfpesloszb, weight 85193, type Beast, INSECTIVORES
+name rtrvuhcaucldakkldyvp, weight 89306, type Bird, it is a migratory bird
+name drvmhlubbryktheyent, weight 85949, type Bird, this bird stays for the winter
+name ngnhytncaynl, weight 54391, type Bird, it is a migratory bird
+name uxnspusgdhiixqmbfjxjc, weight 95426, type Beast, PREDATOR
+name fxngqyhu, weight 37288, type Beast, INSECTIVORES
+name oxyfbeoogedmgaykwobqrl, weight 99796, type Fish, LAKE
+name juxmdvr, weight 33220, type Bird, this bird stays for the winter
+name znsrkpwibprhssch, weight 74873, type Beast, INSECTIVORES
+name lqvrhuvasr, weight 47535, type Bird, it is a migratory bird
+name lhzvmdjuttgsadwfso, weight 84162, type Bird, it is a migratory bird
+name sfeqafsodhkjahl, weight 67989, type Fish, LAKE
+name ezayb, weight 23218, type Bird, it is a migratory bird
+name ayifpoquug, weight 47326, type Bird, it is a migratory bird
+name fwzqfj, weight 28625, type Bird, it is a migratory bird
+name qvfatmseoheapia, weight 69114, type Fish, LAKE
+name wteylwkbyubxru, weight 68217, type Beast, INSECTIVORES
+name jgmtlrhl, weight 37608, type Fish, LAKE
+name sobfhigtdkaniarneu, weight 83106, type Fish, SEA
+name msdtnnnztzoa, weight 58260, type Bird, this bird stays for the winter
+name yssbpzcqmsniay, weight 67598, type Fish, RIVER
+name cqh, weight 13792, type Beast, INSECTIVORES
+name zvrgvamf, weight 38567, type Bird, it is a migratory bird
+name garmbwbyvuwpzbbub, weight 81489, type Beast, INSECTIVORES
+name bxjxaxfftqgsscnlb, weight 81661, type Beast, HERBIVORE
+name saghrffnxnjyeeltza, weight 86529, type Beast, HERBIVORE
+name jlbfjqqs, weight 38405, type Fish, RIVER
+name gnhfljxmsudsw, weight 64050, type Bird, it is a migratory bird
+name nynjkabkrnbaonybafv, weight 91162, type Beast, HERBIVORE
+name ifxcthdgmanjztltanv, weight 92479, type Bird, it is a migratory bird
+name igrsjwengcafmbx, weight 72149, type Beast, HERBIVORE
+name tltzijzjewikrqeoyu, weight 91790, type Fish, LAKE
+name yqrixqgwd, weight 46278, type Bird, this bird stays for the winter
+name aysfnpefzlxcx, weight 65750, type Beast, PREDATOR
+name bzpctthoofremg, weight 69884, type Beast, HERBIVORE
+name pyyeqtujuiokco, weight 71795, type Bird, this bird stays for the winter
+name aibjhammegwbt, weight 62946, type Beast, HERBIVORE
+name fughpftgxzhpnuoxeg, weight 92385, type Beast, PREDATOR
+name fxnmqkatooqxgqswke, weight 92768, type Bird, this bird stays for the winter
+name veudjlcsmuxitoknue, weight 94003, type Fish, RIVER
+name ierfwsrwkqu, weight 58450, type Beast, PREDATOR
+name gjmcanajfyzvypz, weight 78875, type Beast, HERBIVORE
+name lpvooynyapgvs, weight 69973, type Bird, this bird stays for the winter
+name akwvhnwalznmnrbu, weight 84601, type Fish, LAKE
+name jcqzxwuinxzax, weight 70743, type Fish, LAKE
+name wlrbbmqbhcdarzow, weight 83427, type Bird, this bird stays for the winter
+name pfjoiholrxmihbftoa, weight 94154, type Bird, this bird stays for the winter
+name avhapjmukyexdcsu, weight 85924, type Beast, HERBIVORE
+name bkjqjtsuzcfkrw, weight 76442, type Fish, RIVER
+name exq, weight 16702, type Fish, RIVER
+name fgeqguua, weight 43192, type Bird, it is a migratory bird
+name iddq, weight 21531, type Beast, HERBIVORE
+name thwym, weight 29716, type Beast, INSECTIVORES
+name zzmzbawlfj, weight 57770, type Bird, it is a migratory bird
+name bkdyc, weight 27589, type Fish, LAKE
+name oswv, weight 24464, type Bird, this bird stays for the winter
+name esvmjlpslihrjj, weight 80807, type Beast, HERBIVORE
+name rqxrytwagghkhsvde, weight 99572, type Bird, this bird stays for the winter
+name mihhopmfffywxjx, weight 87748, type Fish, RIVER
+name dkjatlqioptlat, weight 81004, type Beast, PREDATOR
+name ihcsanbtgxdc, weight 67874, type Beast, HERBIVORE
+name sjyryjpyxiucuov, weight 92897, type Bird, this bird stays for the winter
+name iczbjfideaug, weight 68833, type Fish, LAKE
+name zifpgrucob, weight 59788, type Beast, INSECTIVORES
+name qtvvyppdmrsiuf, weight 87787, type Bird, it is a migratory bird
+name qkbwbaamicoqliv, weight 89326, type Bird, it is a migratory bird
+name ggtyqjtmuqi, weight 68898, type Bird, it is a migratory bird
+name gtgyurbfhzlfsjm, weight 92627, type Beast, INSECTIVORES
+name wpkocbznv, weight 56268, type Bird, it is a migratory bird
+name rnywhdizmk, weight 62982, type Beast, INSECTIVORES
+name gtrcahwslznzfx, weight 87945, type Bird, it is a migratory bird
+name dyinnjbygsc, weight 67489, type Fish, LAKE
+name vrlngarbfsfsxkef, weight 98758, type Bird, this bird stays for the winter
+name kwudusmhqmqg, weight 76292, type Beast, INSECTIVORES
+name uttmxubssvjk, weight 79574, type Fish, RIVER
+name sangmxbomr, weight 64091, type Fish, LAKE
+name abgznk, weight 37637, type Beast, PREDATOR
+name lltzayia, weight 52157, type Fish, SEA
+name oqqszdvacn, weight 65694, type Beast, PREDATOR
+name lutcszdxd, weight 59974, type Beast, HERBIVORE
+name yusvneiwjcijajm, weight 98604, type Fish, RIVER
+name zhaaznlficqziu, weight 92596, type Bird, this bird stays for the winter
+name hrugpsizqyz, weight 76025, type Bird, it is a migratory bird
+name opotzyc, weight 48493, type Fish, SEA
+name yxuflsgagtji, weight 80433, type Beast, PREDATOR
+name lybadjybeqctr, weight 85482, type Fish, LAKE
+name zs, weight 14566, type Bird, it is a migratory bird
+name zvhvjoasorw, weight 76173, type Bird, this bird stays for the winter
+name nujmaus, weight 47555, type Bird, it is a migratory bird
+name nplmagpd, weight 52514, type Beast, PREDATOR
+name tplungmtklql, weight 83085, type Bird, this bird stays for the winter
+name ovtlo, weight 35332, type Beast, PREDATOR
+name aeivhcowhuo, weight 74399, type Beast, HERBIVORE
+name nktymdykabyk, weight 82940, type Fish, SEA
+name atmmj, weight 33977, type Bird, this bird stays for the winter
+name vycsnokewfvdtb, weight 98312, type Beast, HERBIVORE
+name dtykkoxavpefn, weight 91261, type Bird, this bird stays for the winter
+name leoouyollvi, weight 79027, type Beast, PREDATOR
+name usokbfu, weight 49731, type Fish, SEA
+name blbdwesjpdewj, weight 90539, type Fish, RIVER
+name bxtnpdbl, weight 56710, type Bird, it is a migratory bird
+name gfzmgcbcc, weight 61678, type Fish, RIVER
+name vlgrazdurow, weight 81176, type Bird, it is a migratory bird
+name ykvk, weight 30321, type Fish, RIVER
+name jivmnkuofsoht, weight 95837, type Beast, INSECTIVORES
+name tqyzqcinylo, weight 83435, type Beast, PREDATOR
+name fqgzqqwjh, weight 67026, type Beast, PREDATOR
+name djolsydisqpr, weight 89868, type Bird, it is a migratory bird
+name mhmjvpvbg, weight 66583, type Bird, it is a migratory bird
+name onlv, weight 30788, type Fish, RIVER
+name obspefujlxnm, weight 90178, type Beast, HERBIVORE
+name chsgtqlhiko, weight 81646, type Beast, HERBIVORE
+name aipj, weight 28951, type Bird, this bird stays for the winter
+name yttsmaboaq, weight 76616, type Fish, RIVER
+name azeoubedgtk, weight 82670, type Beast, INSECTIVORES
+name sjzsueot, weight 64009, type Bird, it is a migratory bird
+name bcqhaax, weight 52256, type Beast, INSECTIVORES
+name mioktptqhdu, weight 86892, type Bird, it is a migratory bird
+name towjbkir, weight 63785, type Bird, it is a migratory bird
+name tpzvpczq, weight 67891, type Beast, INSECTIVORES
+name lgknaeemugrl, weight 95713, type Fish, LAKE
+name nvuxzny, weight 62437, type Beast, INSECTIVORES
+name ymheybqqjg, weight 84966, type Beast, INSECTIVORES
+name gjzumpuu, weight 71403, type Bird, this bird stays for the winter
+name nbyj, weight 34814, type Bird, it is a migratory bird
+name gggejcuqjb, weight 86221, type Beast, HERBIVORE
+name jvfscrwqty, weight 93081, type Bird, it is a migratory bird
+name hrispmkpt, weight 82540, type Beast, HERBIVORE
+name izyog, weight 46729, type Bird, it is a migratory bird
+name nyh, weight 28205, type Fish, SEA
+name nlnvacs, weight 64192, type Fish, LAKE
+name rbrzpcnrxt, weight 95810, type Beast, HERBIVORE
+name ffkaltvrbu, weight 92614, type Bird, this bird stays for the winter
+name vkuytdlc, weight 76349, type Beast, INSECTIVORES
+name hmqqdzct, weight 75789, type Beast, HERBIVORE
+name wznvlsben, weight 87843, type Beast, HERBIVORE
+name twkb, weight 38621, type Fish, SEA
+name hlaoujtv, weight 77185, type Fish, LAKE
+name xyuzqx, weight 63073, type Bird, this bird stays for the winter
+name gkajpa, weight 55062, type Fish, RIVER
+name azqfrp, weight 60100, type Fish, SEA
+name xbwyzzw, weight 75293, type Fish, RIVER
+name dssldlz, weight 70587, type Fish, RIVER
+name luklvqkpq, weight 92663, type Beast, PREDATOR
+name nyou, weight 42623, type Fish, SEA
+name roppyquev, weight 95889, type Bird, it is a migratory bird
+name enalvi, weight 61367, type Beast, HERBIVORE
+name umakzx, weight 65141, type Bird, it is a migratory bird
+name opyaget, weight 74722, type Fish, LAKE
+name ehhadrwaa, weight 91826, type Beast, INSECTIVORES
+name tyzz, weight 48416, type Bird, this bird stays for the winter
+name zrwzqp, weight 71395, type Beast, PREDATOR
+name fwap, weight 44753, type Fish, RIVER
+name hzvqem, weight 69454, type Beast, HERBIVORE
+name afwfy, weight 56345, type Bird, this bird stays for the winter
+name qvrwilne, weight 93120, type Bird, this bird stays for the winter
+name cfrwm, weight 57788, type Bird, this bird stays for the winter
+name jksbuf, weight 69269, type Beast, HERBIVORE
+name kxv, weight 37099, type Bird, this bird stays for the winter
+name vtsydae, weight 85718, type Fish, LAKE
+name hta, weight 35569, type Bird, this bird stays for the winter
+name ykhvi, weight 62923, type Fish, RIVER
+name kzfgtant, weight 99084, type Bird, it is a migratory bird
+name kjzwp, weight 66065, type Beast, INSECTIVORES
+name fqgtuln, weight 92734, type Bird, this bird stays for the winter
+name rh, weight 27512, type Fish, RIVER
+name olabf, weight 68712, type Beast, INSECTIVORES
+name nkv, weight 44647, type Fish, RIVER
+name yombre, weight 87758, type Bird, this bird stays for the winter
+name zivnh, weight 75563, type Beast, HERBIVORE
+name fvusc, weight 74842, type Bird, this bird stays for the winter
+name nsovor, weight 92718, type Beast, PREDATOR
+name qjqynj, weight 91492, type Beast, PREDATOR
+name zhlv, weight 62505, type Bird, it is a migratory bird
+name glcp, weight 59224, type Fish, LAKE
+name uuayo, weight 79958, type Fish, SEA
+name rczqbc, weight 92010, type Fish, LAKE
+name mqin, weight 62433, type Fish, LAKE
+name jinsva, weight 95310, type Beast, INSECTIVORES
+name wph, weight 49564, type Bird, this bird stays for the winter
+name iuudju, weight 99723, type Fish, RIVER
+name bqme, weight 64290, type Beast, PREDATOR
+name absz, weight 69029, type Beast, HERBIVORE
+name zrihh, weight 88037, type Beast, HERBIVORE
+name dzrlk, weight 88475, type Beast, INSECTIVORES
+name zmr, weight 58150, type Bird, it is a migratory bird
+name s, weight 19739, type Beast, PREDATOR
+name zrsb, weight 77368, type Bird, it is a migratory bird
+name ynkrr, weight 99709, type Fish, SEA
+name lrl, weight 58183, type Bird, it is a migratory bird
+name bitns, weight 98674, type Fish, SEA
+name wxs, weight 64226, type Bird, it is a migratory bird
+name foz, weight 61377, type Fish, RIVER
+name cr, weight 41095, type Fish, RIVER
+name wjg, weight 65964, type Beast, INSECTIVORES
+name hx, weight 45495, type Bird, this bird stays for the winter
+name mkum, weight 92877, type Beast, HERBIVORE
+name psk, weight 71342, type Fish, SEA
+name aqz, weight 71276, type Beast, HERBIVORE
+name swd, weight 75231, type Bird, this bird stays for the winter
+name hle, weight 77434, type Beast, INSECTIVORES
+name xp, weight 59603, type Beast, INSECTIVORES
+name jwk, weight 87792, type Fish, LAKE
+name j, weight 28617, type Bird, this bird stays for the winter
+name pgf, weight 92232, type Fish, SEA
+name ra, weight 62138, type Bird, this bird stays for the winter
+name e, weight 30525, type Bird, this bird stays for the winter
+name mh, weight 66052, type Bird, this bird stays for the winter
+name yj, weight 74286, type Beast, INSECTIVORES
+name um, weight 81007, type Bird, it is a migratory bird
+name zw, weight 89930, type Bird, this bird stays for the winter
+name xa, weight 88403, type Fish, LAKE
+name xb, weight 91018, type Bird, this bird stays for the winter
+name u, weight 49918, type Bird, this bird stays for the winter
+name u, weight 51585, type Beast, HERBIVORE
+name zf, weight 99640, type Fish, LAKE
+name s, weight 59311, type Fish, SEA
+name r, weight 60107, type Beast, INSECTIVORES
+name y, weight 68349, type Beast, PREDATOR
+name k, weight 77529, type Beast, INSECTIVORES
+name s, weight 89646, type Beast, PREDATOR

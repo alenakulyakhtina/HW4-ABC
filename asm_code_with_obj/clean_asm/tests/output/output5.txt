@@ -1,0 +1,5 @@
+name sparrow, weight 150, type Bird, this bird stays for the winter
+name parrot, weight 200, type Bird, this bird stays for the winter
+name shark, weight 23500, type Fish, SEA
+name deer, weight 30000, type Beast, HERBIVORE
+name whale, weight 1000000, type Fish, RIVER

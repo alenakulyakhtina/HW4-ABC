@@ -1,0 +1,8 @@
+name aaaaaaaa, weight 5, type Beast, PREDATOR
+name aaaaaa, weight 5, type Bird, it is a migratory bird
+name aaaaaa, weight 5, type Beast, HERBIVORE
+name aaaaa, weight 5, type Bird, it is a migratory bird
+name aaaa, weight 5, type Bird, this bird stays for the winter
+name aaa, weight 5, type Fish, LAKE
+name aa, weight 5, type Beast, INSECTIVORES
+name a, weight 5, type Fish, SEA
